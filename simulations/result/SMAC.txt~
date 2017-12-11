@@ -1,0 +1,425 @@
+DEBUG (0): TossimPacketModelC: Init.init() called
+DEBUG (1): TossimPacketModelC: Init.init() called
+DEBUG (2): TossimPacketModelC: Init.init() called
+DEBUG (3): TossimPacketModelC: Init.init() called
+DEBUG (4): TossimPacketModelC: Init.init() called
+DEBUG (5): TossimPacketModelC: Init.init() called
+DEBUG (6): TossimPacketModelC: Init.init() called
+DEBUG (7): TossimPacketModelC: Init.init() called
+DEBUG (8): TossimPacketModelC: Init.init() called
+DEBUG (9): TossimPacketModelC: Init.init() called
+DEBUG (10): TossimPacketModelC: Init.init() called
+DEBUG (11): TossimPacketModelC: Init.init() called
+DEBUG (0): TossimPacketModelC: Active timer fired at time = 3929792499.
+DEBUG (0): TossimPacketModelC: Going to Turn Radio OFF
+DEBUG (0): TossimPacketModelC: Control.stop() called.
+DEBUG (1): TossimPacketModelC: Active timer fired at time = 3932143716.
+DEBUG (1): TossimPacketModelC: Going to Turn Radio OFF
+DEBUG (1): TossimPacketModelC: Control.stop() called.
+DEBUG (2): TossimPacketModelC: Active timer fired at time = 3934494933.
+DEBUG (2): TossimPacketModelC: Going to Turn Radio OFF
+DEBUG (2): TossimPacketModelC: Control.stop() called.
+DEBUG (3): TossimPacketModelC: Active timer fired at time = 3936846150.
+DEBUG (3): TossimPacketModelC: Going to Turn Radio OFF
+DEBUG (3): TossimPacketModelC: Control.stop() called.
+DEBUG (4): TossimPacketModelC: Active timer fired at time = 3939197367.
+DEBUG (4): TossimPacketModelC: Going to Turn Radio OFF
+DEBUG (4): TossimPacketModelC: Control.stop() called.
+DEBUG (5): TossimPacketModelC: Active timer fired at time = 3941548584.
+DEBUG (5): TossimPacketModelC: Going to Turn Radio OFF
+DEBUG (5): TossimPacketModelC: Control.stop() called.
+DEBUG (6): TossimPacketModelC: Active timer fired at time = 3943899801.
+DEBUG (6): TossimPacketModelC: Going to Turn Radio OFF
+DEBUG (6): TossimPacketModelC: Control.stop() called.
+DEBUG (7): TossimPacketModelC: Active timer fired at time = 3946251018.
+DEBUG (7): TossimPacketModelC: Going to Turn Radio OFF
+DEBUG (7): TossimPacketModelC: Control.stop() called.
+DEBUG (8): TossimPacketModelC: Active timer fired at time = 3948602235.
+DEBUG (8): TossimPacketModelC: Going to Turn Radio OFF
+DEBUG (8): TossimPacketModelC: Control.stop() called.
+DEBUG (9): TossimPacketModelC: Active timer fired at time = 3950953452.
+DEBUG (9): TossimPacketModelC: Going to Turn Radio OFF
+DEBUG (9): TossimPacketModelC: Control.stop() called.
+DEBUG (10): TossimPacketModelC: Active timer fired at time = 3953304669.
+DEBUG (10): TossimPacketModelC: Going to Turn Radio OFF
+DEBUG (10): TossimPacketModelC: Control.stop() called.
+DEBUG (11): TossimPacketModelC: Active timer fired at time = 3955655886.
+DEBUG (11): TossimPacketModelC: Going to Turn Radio OFF
+DEBUG (11): TossimPacketModelC: Control.stop() called.
+DEBUG (0): TossimPacketModelC: Sleep timer fired at time = 9789167499.
+DEBUG (0): TossimPacketModelC: Going to turn Radio ON
+DEBUG (0): TossimPacketModelC: Control.start() called!
+DEBUG (0): TossimPacketModelC: SYNwaitTimer started
+DEBUG (0): SYNPACKET: here2
+DEBUG (0): TossimPacketModelC: Backoff value: 59356343
+DEBUG (1): TossimPacketModelC: Sleep timer fired at time = 9791518716.
+DEBUG (1): TossimPacketModelC: Going to turn Radio ON
+DEBUG (1): TossimPacketModelC: Control.start() called!
+DEBUG (1): TossimPacketModelC: SYNwaitTimer started
+DEBUG (1): SYNPACKET: here2
+DEBUG (1): TossimPacketModelC: Backoff value: 87279764
+DEBUG (2): TossimPacketModelC: Sleep timer fired at time = 9793869933.
+DEBUG (2): TossimPacketModelC: Going to turn Radio ON
+DEBUG (2): TossimPacketModelC: Control.start() called!
+DEBUG (2): TossimPacketModelC: SYNwaitTimer started
+DEBUG (2): SYNPACKET: here2
+DEBUG (2): TossimPacketModelC: Backoff value: 37231228
+DEBUG (3): TossimPacketModelC: Sleep timer fired at time = 9796221150.
+DEBUG (3): TossimPacketModelC: Going to turn Radio ON
+DEBUG (3): TossimPacketModelC: Control.start() called!
+DEBUG (3): TossimPacketModelC: SYNwaitTimer started
+DEBUG (3): SYNPACKET: here2
+DEBUG (3): TossimPacketModelC: Backoff value: 73699521
+DEBUG (4): TossimPacketModelC: Sleep timer fired at time = 9798572367.
+DEBUG (4): TossimPacketModelC: Going to turn Radio ON
+DEBUG (4): TossimPacketModelC: Control.start() called!
+DEBUG (4): TossimPacketModelC: SYNwaitTimer started
+DEBUG (4): SYNPACKET: here2
+DEBUG (4): TossimPacketModelC: Backoff value: 13275069
+DEBUG (5): TossimPacketModelC: Sleep timer fired at time = 9800923584.
+DEBUG (5): TossimPacketModelC: Going to turn Radio ON
+DEBUG (5): TossimPacketModelC: Control.start() called!
+DEBUG (5): TossimPacketModelC: SYNwaitTimer started
+DEBUG (5): SYNPACKET: here2
+DEBUG (5): TossimPacketModelC: Backoff value: 43945056
+DEBUG (6): TossimPacketModelC: Sleep timer fired at time = 9803274801.
+DEBUG (6): TossimPacketModelC: Going to turn Radio ON
+DEBUG (6): TossimPacketModelC: Control.start() called!
+DEBUG (6): TossimPacketModelC: SYNwaitTimer started
+DEBUG (6): SYNPACKET: here2
+DEBUG (6): TossimPacketModelC: Backoff value: 54168385
+DEBUG (7): TossimPacketModelC: Sleep timer fired at time = 9805626018.
+DEBUG (7): TossimPacketModelC: Going to turn Radio ON
+DEBUG (7): TossimPacketModelC: Control.start() called!
+DEBUG (7): TossimPacketModelC: SYNwaitTimer started
+DEBUG (7): SYNPACKET: here2
+DEBUG (7): TossimPacketModelC: Backoff value: 17852679
+DEBUG (8): TossimPacketModelC: Sleep timer fired at time = 9807977235.
+DEBUG (8): TossimPacketModelC: Going to turn Radio ON
+DEBUG (8): TossimPacketModelC: Control.start() called!
+DEBUG (8): TossimPacketModelC: SYNwaitTimer started
+DEBUG (8): SYNPACKET: here2
+DEBUG (8): TossimPacketModelC: Backoff value: 49285601
+DEBUG (9): TossimPacketModelC: Sleep timer fired at time = 9810328452.
+DEBUG (9): TossimPacketModelC: Going to turn Radio ON
+DEBUG (9): TossimPacketModelC: Control.start() called!
+DEBUG (9): TossimPacketModelC: SYNwaitTimer started
+DEBUG (9): SYNPACKET: here2
+DEBUG (9): TossimPacketModelC: Backoff value: 37231228
+DEBUG (10): TossimPacketModelC: Sleep timer fired at time = 9812679669.
+DEBUG (10): TossimPacketModelC: Going to turn Radio ON
+DEBUG (10): TossimPacketModelC: Control.start() called!
+DEBUG (10): TossimPacketModelC: SYNwaitTimer started
+DEBUG (10): SYNPACKET: here2
+DEBUG (10): TossimPacketModelC: Backoff value: 15411287
+DEBUG (11): TossimPacketModelC: Sleep timer fired at time = 9815030886.
+DEBUG (11): TossimPacketModelC: Going to turn Radio ON
+DEBUG (11): TossimPacketModelC: Control.start() called!
+DEBUG (11): TossimPacketModelC: SYNwaitTimer started
+DEBUG (11): SYNPACKET: here2
+DEBUG (11): TossimPacketModelC: Backoff value: 47912318
+DEBUG (4): SYNPACKET: here3
+DEBUG (4): SYNPACKET: here3
+DEBUG (4): PACKET: Next Sleep time: 64923
+DEBUG (4): PACKET: Broadcasting syn synpacket to everyone. Duration:16479396 ,time: 9927001514
+DEBUG (4): PACKET: Next Sleep time: 64922
+DEBUG (4): PACKET: syn Send done at 9945159367.
+DEBUG (0): TossimPacketModelC: In GainRadioModel.receive, Received packet of type 1
+DEBUG (0): TossimPacketModelC: In GainRadioModel.receive, Received a SYN packet from node 4, time: 9943480910
+DEBUG (0): TossimPacketModelC: In GainRadioModel.receive, following schedule, started active timer 64922
+DEBUG (4): PACKET: Signaling SYN send done at 9945159367.
+DEBUG (10): SYNPACKET: here3
+DEBUG (10): SYNPACKET: here3
+DEBUG (10): PACKET: Next Sleep time: 64921
+DEBUG (10): PACKET: Broadcasting syn synpacket to everyone. Duration:16479396 ,time: 9962470996
+DEBUG (10): PACKET: Next Sleep time: 64920
+DEBUG (10): PACKET: syn Send done at 9980628849.
+DEBUG (7): SYNPACKET: here3
+DEBUG (7): SYNPACKET: here3
+DEBUG (11): TossimPacketModelC: In GainRadioModel.receive, Received packet of type 1
+DEBUG (11): TossimPacketModelC: In GainRadioModel.receive, Received a SYN packet from node 10, time: 9978950392
+DEBUG (11): TossimPacketModelC: In GainRadioModel.receive, following schedule, started active timer 64920
+DEBUG (9): TossimPacketModelC: In GainRadioModel.receive, Received packet of type 1
+DEBUG (9): TossimPacketModelC: In GainRadioModel.receive, Received a SYN packet from node 10, time: 9978950392
+DEBUG (9): TossimPacketModelC: In GainRadioModel.receive, following schedule, started active timer 64920
+DEBUG (8): TossimPacketModelC: In GainRadioModel.receive, Received packet of type 1
+DEBUG (8): TossimPacketModelC: In GainRadioModel.receive, Received a SYN packet from node 10, time: 9978950392
+DEBUG (8): TossimPacketModelC: In GainRadioModel.receive, following schedule, started active timer 64920
+DEBUG (7): PACKET: Next Sleep time: 64919
+DEBUG (7): PACKET: Broadcasting syn synpacket to everyone. Duration:16479396 ,time: 9979831265
+DEBUG (7): PACKET: Next Sleep time: 64918
+DEBUG (7): PACKET: syn Send done at 9997989118.
+DEBUG (10): PACKET: Signaling SYN send done at 9980628849.
+DEBUG (5): TossimPacketModelC: In GainRadioModel.receive, Received packet of type 1
+DEBUG (5): TossimPacketModelC: In GainRadioModel.receive, Received a SYN packet from node 7, time: 9996310661
+DEBUG (5): TossimPacketModelC: In GainRadioModel.receive, following schedule, started active timer 64918
+DEBUG (9): TossimPacketModelC: In GainRadioModel.receive, Received packet of type 1
+DEBUG (9): TossimPacketModelC: In GainRadioModel.receive, Received a SYN packet from node 7, time: 9996310661
+DEBUG (9): TossimPacketModelC: In GainRadioModel.receive, following schedule, started active timer 64918
+DEBUG (9): TossimPacketModelC: In borderNode_process,  time_diff: 0
+DEBUG (8): TossimPacketModelC: In GainRadioModel.receive, Received packet of type 1
+DEBUG (8): TossimPacketModelC: In GainRadioModel.receive, Received a SYN packet from node 7, time: 9996310661
+DEBUG (8): TossimPacketModelC: In GainRadioModel.receive, following schedule, started active timer 64918
+DEBUG (8): TossimPacketModelC: In borderNode_process,  time_diff: 0
+DEBUG (6): TossimPacketModelC: In GainRadioModel.receive, Received packet of type 1
+DEBUG (6): TossimPacketModelC: In GainRadioModel.receive, Received a SYN packet from node 7, time: 9996310661
+DEBUG (6): TossimPacketModelC: In GainRadioModel.receive, following schedule, started active timer 64918
+DEBUG (7): PACKET: Signaling SYN send done at 9997989118.
+DEBUG (2): SYNPACKET: here3
+DEBUG (2): SYNPACKET: here3
+DEBUG (2): PACKET: Next Sleep time: 64899
+DEBUG (2): PACKET: Broadcasting syn synpacket to everyone. Duration:16479396 ,time: 10161860670
+DEBUG (2): PACKET: Next Sleep time: 64898
+DEBUG (2): PACKET: syn Send done at 10180018523.
+DEBUG (9): SYNPACKET: here3
+DEBUG (9): SYNPACKET: here3
+DEBUG (9): PACKET: Next Sleep time: 64900
+DEBUG (9): PACKET: Broadcasting syn synpacket to everyone. Duration:16479396 ,time: 10178319189
+DEBUG (9): PACKET: Next Sleep time: 64899
+DEBUG (9): PACKET: syn Send done at 10196477042.
+DEBUG (11): TossimPacketModelC: In GainRadioModel.receive, Received packet of type 1
+DEBUG (11): TossimPacketModelC: In GainRadioModel.receive, Received a SYN packet from node 2, time: 10178340066
+DEBUG (11): TossimPacketModelC: In GainRadioModel.receive, following schedule, started active timer 64898
+DEBUG (11): TossimPacketModelC: In borderNode_process,  time_diff: -1
+DEBUG (1): TossimPacketModelC: In GainRadioModel.receive, Received packet of type 1
+DEBUG (1): TossimPacketModelC: In GainRadioModel.receive, Received a SYN packet from node 2, time: 10178340066
+DEBUG (1): TossimPacketModelC: In GainRadioModel.receive, following schedule, started active timer 64898
+DEBUG (0): TossimPacketModelC: In GainRadioModel.receive, Received packet of type 1
+DEBUG (0): TossimPacketModelC: In GainRadioModel.receive, Received a SYN packet from node 2, time: 10178340066
+DEBUG (0): TossimPacketModelC: In GainRadioModel.receive, following schedule, started active timer 64898
+DEBUG (0): TossimPacketModelC: In borderNode_process,  time_diff: 0
+DEBUG (6): TossimPacketModelC: In GainRadioModel.receive, Received packet of type 1
+DEBUG (6): TossimPacketModelC: In GainRadioModel.receive, Received a SYN packet from node 2, time: 10178340066
+DEBUG (6): TossimPacketModelC: In GainRadioModel.receive, following schedule, started active timer 64898
+DEBUG (6): TossimPacketModelC: In borderNode_process,  time_diff: -1
+DEBUG (2): PACKET: Signaling SYN send done at 10180018523.
+DEBUG (7): TossimPacketModelC: In GainRadioModel.receive, Received packet of type 1
+DEBUG (7): TossimPacketModelC: In GainRadioModel.receive, Received a SYN packet from node 9, time: 10194798585
+DEBUG (7): TossimPacketModelC: In borderNode_process,  time_diff: 2
+DEBUG (10): TossimPacketModelC: In GainRadioModel.receive, Received packet of type 1
+DEBUG (10): TossimPacketModelC: In GainRadioModel.receive, Received a SYN packet from node 9, time: 10194798585
+DEBUG (10): TossimPacketModelC: In borderNode_process,  time_diff: 2
+DEBUG (9): PACKET: Signaling SYN send done at 10196477042.
+DEBUG (5): SYNPACKET: here3
+DEBUG (5): SYNPACKET: here3
+DEBUG (5): PACKET: Next Sleep time: 64894
+DEBUG (5): PACKET: Broadcasting syn synpacket to everyone. Duration:16479396 ,time: 10236052601
+DEBUG (5): PACKET: Next Sleep time: 64893
+DEBUG (5): PACKET: syn Send done at 10254210454.
+DEBUG (1): TossimPacketModelC: In GainRadioModel.receive, Received packet of type 1
+DEBUG (1): TossimPacketModelC: In GainRadioModel.receive, Received a SYN packet from node 5, time: 10252531997
+DEBUG (1): TossimPacketModelC: In GainRadioModel.receive, following schedule, started active timer 64893
+DEBUG (1): TossimPacketModelC: In borderNode_process,  time_diff: 3
+DEBUG (6): TossimPacketModelC: In GainRadioModel.receive, Received packet of type 1
+DEBUG (6): TossimPacketModelC: In GainRadioModel.receive, Received a SYN packet from node 5, time: 10252531997
+DEBUG (6): TossimPacketModelC: In GainRadioModel.receive, following schedule, started active timer 64893
+DEBUG (6): TossimPacketModelC: In borderNode_process,  time_diff: 3
+DEBUG (7): TossimPacketModelC: In GainRadioModel.receive, Received packet of type 1
+DEBUG (7): TossimPacketModelC: In GainRadioModel.receive, Received a SYN packet from node 5, time: 10252531997
+DEBUG (7): TossimPacketModelC: In borderNode_process,  time_diff: 0
+DEBUG (5): PACKET: Signaling SYN send done at 10254210454.
+DEBUG (11): SYNPACKET: here3
+DEBUG (11): SYNPACKET: here3
+DEBUG (11): PACKET: Next Sleep time: 64887
+DEBUG (11): PACKET: Broadcasting syn synpacket to everyone. Duration:16479396 ,time: 10289832523
+DEBUG (11): PACKET: Next Sleep time: 64886
+DEBUG (11): PACKET: syn Send done at 10307990376.
+DEBUG (8): SYNPACKET: here3
+DEBUG (10): TossimPacketModelC: In GainRadioModel.receive, Received packet of type 1
+DEBUG (10): TossimPacketModelC: In GainRadioModel.receive, Received a SYN packet from node 11, time: 10306311919
+DEBUG (10): TossimPacketModelC: In borderNode_process,  time_diff: -2
+DEBUG (8): TossimPacketModelC: In GainRadioModel.receive, Received packet of type 1
+DEBUG (8): TossimPacketModelC: In GainRadioModel.receive, Received a SYN packet from node 11, time: 10306311919
+DEBUG (8): TossimPacketModelC: In GainRadioModel.receive, following schedule, started active timer 64886
+DEBUG (8): TossimPacketModelC: In borderNode_process,  time_diff: 0
+DEBUG (2): TossimPacketModelC: In GainRadioModel.receive, Received packet of type 1
+DEBUG (2): TossimPacketModelC: In GainRadioModel.receive, Received a SYN packet from node 11, time: 10306311919
+DEBUG (2): TossimPacketModelC: In borderNode_process,  time_diff: 2
+DEBUG (11): PACKET: Signaling SYN send done at 10307990376.
+DEBUG (6): SYNPACKET: here3
+DEBUG (6): SYNPACKET: here3
+DEBUG (6): PACKET: Next Sleep time: 64884
+DEBUG (6): PACKET: Broadcasting syn synpacket to everyone. Duration:16479396 ,time: 10340637108
+DEBUG (6): PACKET: Next Sleep time: 64883
+DEBUG (6): PACKET: syn Send done at 10358794961.
+DEBUG (8): TossimPacketModelC: In GainRadioModel.receive, Received packet of type 1
+DEBUG (8): TossimPacketModelC: In GainRadioModel.receive, Received a SYN packet from node 6, time: 10357116504
+DEBUG (8): TossimPacketModelC: In GainRadioModel.receive, following schedule, started active timer 64883
+DEBUG (8): TossimPacketModelC: In borderNode_process,  time_diff: 2
+DEBUG (7): TossimPacketModelC: In GainRadioModel.receive, Received packet of type 1
+DEBUG (7): TossimPacketModelC: In GainRadioModel.receive, Received a SYN packet from node 6, time: 10357116504
+DEBUG (7): TossimPacketModelC: In borderNode_process,  time_diff: 1
+DEBUG (1): TossimPacketModelC: In GainRadioModel.receive, Received packet of type 1
+DEBUG (1): TossimPacketModelC: In GainRadioModel.receive, Received a SYN packet from node 6, time: 10357116504
+DEBUG (1): TossimPacketModelC: In GainRadioModel.receive, following schedule, started active timer 64883
+DEBUG (1): TossimPacketModelC: In borderNode_process,  time_diff: 0
+DEBUG (2): TossimPacketModelC: In GainRadioModel.receive, Received packet of type 1
+DEBUG (2): TossimPacketModelC: In GainRadioModel.receive, Received a SYN packet from node 6, time: 10357116504
+DEBUG (2): TossimPacketModelC: In borderNode_process,  time_diff: 2
+DEBUG (5): TossimPacketModelC: In GainRadioModel.receive, Received packet of type 1
+DEBUG (5): TossimPacketModelC: In GainRadioModel.receive, Received a SYN packet from node 6, time: 10357116504
+DEBUG (5): TossimPacketModelC: In borderNode_process,  time_diff: 1
+DEBUG (6): PACKET: Signaling SYN send done at 10358794961.
+DEBUG (0): SYNPACKET: here3
+DEBUG (0): SYNPACKET: here3
+DEBUG (0): PACKET: Next Sleep time: 64877
+DEBUG (0): PACKET: Broadcasting syn synpacket to everyone. Duration:16479396 ,time: 10378409386
+DEBUG (0): PACKET: Next Sleep time: 64876
+DEBUG (0): PACKET: syn Send done at 10396567239.
+DEBUG (3): TossimPacketModelC: In GainRadioModel.receive, Received packet of type 1
+DEBUG (3): TossimPacketModelC: In GainRadioModel.receive, Received a SYN packet from node 0, time: 10394888782
+DEBUG (3): TossimPacketModelC: In GainRadioModel.receive, following schedule, started active timer 64876
+DEBUG (1): TossimPacketModelC: In GainRadioModel.receive, Received packet of type 1
+DEBUG (1): TossimPacketModelC: In GainRadioModel.receive, Received a SYN packet from node 0, time: 10394888782
+DEBUG (1): TossimPacketModelC: In GainRadioModel.receive, following schedule, started active timer 64876
+DEBUG (1): TossimPacketModelC: In borderNode_process,  time_diff: -3
+DEBUG (2): TossimPacketModelC: In GainRadioModel.receive, Received packet of type 1
+DEBUG (2): TossimPacketModelC: In GainRadioModel.receive, Received a SYN packet from node 0, time: 10394888782
+DEBUG (2): TossimPacketModelC: In borderNode_process,  time_diff: -3
+DEBUG (4): TossimPacketModelC: In GainRadioModel.receive, Received packet of type 1
+DEBUG (4): TossimPacketModelC: In GainRadioModel.receive, Received a SYN packet from node 0, time: 10394888782
+DEBUG (4): TossimPacketModelC: In borderNode_process,  time_diff: 1
+DEBUG (0): PACKET: Signaling SYN send done at 10396567239.
+DEBUG (3): SYNPACKET: here3
+DEBUG (3): SYNPACKET: here3
+DEBUG (3): PACKET: Next Sleep time: 64862
+DEBUG (3): PACKET: Broadcasting syn synpacket to everyone. Duration:16479396 ,time: 10528894817
+DEBUG (3): PACKET: Next Sleep time: 64861
+DEBUG (3): PACKET: syn Send done at 10547052670.
+DEBUG (1): TossimPacketModelC: In GainRadioModel.receive, Received packet of type 1
+DEBUG (1): TossimPacketModelC: In GainRadioModel.receive, Received a SYN packet from node 3, time: 10545374213
+DEBUG (1): TossimPacketModelC: In GainRadioModel.receive, following schedule, started active timer 64861
+DEBUG (1): TossimPacketModelC: In borderNode_process,  time_diff: 1
+DEBUG (0): TossimPacketModelC: In GainRadioModel.receive, Received packet of type 1
+DEBUG (0): TossimPacketModelC: In GainRadioModel.receive, Received a SYN packet from node 3, time: 10545374213
+DEBUG (0): TossimPacketModelC: In borderNode_process,  time_diff: 1
+DEBUG (3): PACKET: Signaling SYN send done at 10547052670.
+DEBUG (1): SYNPACKET: here3
+DEBUG (1): SYNPACKET: here3
+DEBUG (1): PACKET: Next Sleep time: 64850
+DEBUG (1): PACKET: Broadcasting syn synpacket to everyone. Duration:16479396 ,time: 10659994813
+DEBUG (1): PACKET: Next Sleep time: 64849
+DEBUG (1): PACKET: syn Send done at 10678152666.
+DEBUG (5): TossimPacketModelC: In GainRadioModel.receive, Received packet of type 1
+DEBUG (5): TossimPacketModelC: In GainRadioModel.receive, Received a SYN packet from node 1, time: 10676474209
+DEBUG (5): TossimPacketModelC: In borderNode_process,  time_diff: -1
+DEBUG (0): TossimPacketModelC: In GainRadioModel.receive, Received packet of type 1
+DEBUG (0): TossimPacketModelC: In GainRadioModel.receive, Received a SYN packet from node 1, time: 10676474209
+DEBUG (0): TossimPacketModelC: In borderNode_process,  time_diff: 1
+DEBUG (6): TossimPacketModelC: In GainRadioModel.receive, Received packet of type 1
+DEBUG (6): TossimPacketModelC: In GainRadioModel.receive, Received a SYN packet from node 1, time: 10676474209
+DEBUG (6): TossimPacketModelC: In borderNode_process,  time_diff: -1
+DEBUG (3): TossimPacketModelC: In GainRadioModel.receive, Received packet of type 1
+DEBUG (3): TossimPacketModelC: In GainRadioModel.receive, Received a SYN packet from node 1, time: 10676474209
+DEBUG (3): TossimPacketModelC: In borderNode_process,  time_diff: 2
+DEBUG (2): TossimPacketModelC: In GainRadioModel.receive, Received packet of type 1
+DEBUG (2): TossimPacketModelC: In GainRadioModel.receive, Received a SYN packet from node 1, time: 10676474209
+DEBUG (2): TossimPacketModelC: In borderNode_process,  time_diff: 2
+DEBUG (1): PACKET: Signaling SYN send done at 10678152666.
+DEBUG (0): SYNwaitTimer fired, now can do transmission 10765729999
+DEBUG (1): SYNwaitTimer fired, now can do transmission 10768081216
+DEBUG (2): SYNwaitTimer fired, now can do transmission 10770432433
+DEBUG (3): SYNwaitTimer fired, now can do transmission 10772783650
+DEBUG (4): SYNwaitTimer fired, now can do transmission 10775134867
+DEBUG (5): SYNwaitTimer fired, now can do transmission 10777486084
+DEBUG (6): SYNwaitTimer fired, now can do transmission 10779837301
+DEBUG (7): SYNwaitTimer fired, now can do transmission 10782188518
+DEBUG (8): SYNwaitTimer fired, now can do transmission 10784539735
+DEBUG (9): SYNwaitTimer fired, now can do transmission 10786890952
+DEBUG (10): SYNwaitTimer fired, now can do transmission 10789242169
+DEBUG (11): SYNwaitTimer fired, now can do transmission 10791593386
+DEBUG (0): TossimPacketModelC: have to send a packet of type 0,
+DEBUG (0): TossimPacketModelC: sending says type = 0, payload = 1 to destNode=65535
+DEBUG (0): TossimPacketModelC: have to Broadcast a packet of type 0  to node 65535.
+DEBUG (0): TossimPacketModelC: syn_done true
+DEBUG (0): PACKET: Broadcasting packet to everyone. time: 29322095956
+DEBUG (0): PACKET: Send done at 29336591721.
+DEBUG (1): TossimPacketModelC: In GainRadioModel.receive, Received packet of type 0
+DEBUG (1): TossimPacketModelC: In GainRadioModel.receive, received packet for 65535, discarding it.
+DEBUG (4): TossimPacketModelC: In GainRadioModel.receive, Received packet of type 0
+DEBUG (4): TossimPacketModelC: In GainRadioModel.receive, received packet for 65535, discarding it.
+DEBUG (2): TossimPacketModelC: In GainRadioModel.receive, Received packet of type 0
+DEBUG (2): TossimPacketModelC: In GainRadioModel.receive, received packet for 65535, discarding it.
+DEBUG (3): TossimPacketModelC: In GainRadioModel.receive, Received packet of type 0
+DEBUG (3): TossimPacketModelC: In GainRadioModel.receive, received packet for 65535, discarding it.
+DEBUG (0): PACKET: Received ack at 29336591721.
+DEBUG (0): PACKET: Signaling send done at 29336591721.
+DEBUG (0): TossimPacketModelC: have to send a packet of type 0,
+DEBUG (0): TossimPacketModelC: sending says type = 0, payload = 1 to destNode=65535
+DEBUG (0): TossimPacketModelC: have to Broadcast a packet of type 0  to node 65535.
+DEBUG (0): TossimPacketModelC: syn_done true
+DEBUG (0): PACKET: Broadcasting packet to everyone. time: 58618970956
+DEBUG (0): PACKET: Send done at 58633466721.
+DEBUG (1): TossimPacketModelC: In GainRadioModel.receive, Received packet of type 0
+DEBUG (1): TossimPacketModelC: In GainRadioModel.receive, received packet for 65535, discarding it.
+DEBUG (3): TossimPacketModelC: In GainRadioModel.receive, Received packet of type 0
+DEBUG (3): TossimPacketModelC: In GainRadioModel.receive, received packet for 65535, discarding it.
+DEBUG (4): TossimPacketModelC: In GainRadioModel.receive, Received packet of type 0
+DEBUG (4): TossimPacketModelC: In GainRadioModel.receive, received packet for 65535, discarding it.
+DEBUG (0): PACKET: Received ack at 58633466721.
+DEBUG (0): PACKET: Signaling send done at 58633466721.
+DEBUG (8): SYNPACKET: here3
+DEBUG (8): SYNPACKET: here3
+DEBUG (8): PACKET: Next Sleep time: 59421
+DEBUG (0): TossimPacketModelC: have to send a packet of type 0,
+DEBUG (0): TossimPacketModelC: sending says type = 0, payload = 1 to destNode=65535
+DEBUG (0): TossimPacketModelC: have to Broadcast a packet of type 0  to node 65535.
+DEBUG (0): TossimPacketModelC: syn_done true
+DEBUG (0): PACKET: Broadcasting packet to everyone. time: 87915845956
+DEBUG (0): PACKET: Send done at 87930341721.
+DEBUG (4): TossimPacketModelC: In GainRadioModel.receive, Received packet of type 0
+DEBUG (4): TossimPacketModelC: In GainRadioModel.receive, received packet for 65535, discarding it.
+DEBUG (2): TossimPacketModelC: In GainRadioModel.receive, Received packet of type 0
+DEBUG (2): TossimPacketModelC: In GainRadioModel.receive, received packet for 65535, discarding it.
+DEBUG (3): TossimPacketModelC: In GainRadioModel.receive, Received packet of type 0
+DEBUG (3): TossimPacketModelC: In GainRadioModel.receive, received packet for 65535, discarding it.
+DEBUG (0): PACKET: Received ack at 87930341721.
+DEBUG (0): PACKET: Signaling send done at 87930341721.
+DEBUG (0): TossimPacketModelC: have to send a packet of type 0,
+DEBUG (0): TossimPacketModelC: sending says type = 0, payload = 1 to destNode=65535
+DEBUG (0): TossimPacketModelC: have to Broadcast a packet of type 0  to node 65535.
+DEBUG (0): TossimPacketModelC: syn_done true
+DEBUG (0): PACKET: Broadcasting packet to everyone. time: 117212720956
+DEBUG (0): PACKET: Send done at 117227216721.
+DEBUG (1): TossimPacketModelC: In GainRadioModel.receive, Received packet of type 0
+DEBUG (1): TossimPacketModelC: In GainRadioModel.receive, received packet for 65535, discarding it.
+DEBUG (4): TossimPacketModelC: In GainRadioModel.receive, Received packet of type 0
+DEBUG (4): TossimPacketModelC: In GainRadioModel.receive, received packet for 65535, discarding it.
+DEBUG (2): TossimPacketModelC: In GainRadioModel.receive, Received packet of type 0
+DEBUG (2): TossimPacketModelC: In GainRadioModel.receive, received packet for 65535, discarding it.
+DEBUG (3): TossimPacketModelC: In GainRadioModel.receive, Received packet of type 0
+DEBUG (3): TossimPacketModelC: In GainRadioModel.receive, received packet for 65535, discarding it.
+DEBUG (0): PACKET: Received ack at 117227216721.
+DEBUG (0): PACKET: Signaling send done at 117227216721.
+DEBUG (0): TossimPacketModelC: have to send a packet of type 0,
+DEBUG (0): TossimPacketModelC: sending says type = 0, payload = 1 to destNode=65535
+DEBUG (0): TossimPacketModelC: have to Broadcast a packet of type 0  to node 65535.
+DEBUG (0): TossimPacketModelC: syn_done true
+DEBUG (0): PACKET: Broadcasting packet to everyone. time: 146509595956
+DEBUG (0): PACKET: Send done at 146524091721.
+DEBUG (1): TossimPacketModelC: In GainRadioModel.receive, Received packet of type 0
+DEBUG (1): TossimPacketModelC: In GainRadioModel.receive, received packet for 65535, discarding it.
+DEBUG (4): TossimPacketModelC: In GainRadioModel.receive, Received packet of type 0
+DEBUG (4): TossimPacketModelC: In GainRadioModel.receive, received packet for 65535, discarding it.
+DEBUG (2): TossimPacketModelC: In GainRadioModel.receive, Received packet of type 0
+DEBUG (2): TossimPacketModelC: In GainRadioModel.receive, received packet for 65535, discarding it.
+DEBUG (3): TossimPacketModelC: In GainRadioModel.receive, Received packet of type 0
+DEBUG (3): TossimPacketModelC: In GainRadioModel.receive, received packet for 65535, discarding it.
+DEBUG (0): PACKET: Received ack at 146524091721.
+DEBUG (0): PACKET: Signaling send done at 146524091721.
+DEBUG (0): TossimPacketModelC: have to send a packet of type 0,
+DEBUG (0): TossimPacketModelC: sending says type = 0, payload = 1 to destNode=65535
+DEBUG (0): TossimPacketModelC: have to Broadcast a packet of type 0  to node 65535.
+DEBUG (0): TossimPacketModelC: syn_done true
+DEBUG (0): PACKET: Broadcasting packet to everyone. time: 175806470956
+DEBUG (0): PACKET: Send done at 175820966721.
+DEBUG (1): TossimPacketModelC: In GainRadioModel.receive, Received packet of type 0
+DEBUG (1): TossimPacketModelC: In GainRadioModel.receive, received packet for 65535, discarding it.
+DEBUG (4): TossimPacketModelC: In GainRadioModel.receive, Received packet of type 0
+DEBUG (4): TossimPacketModelC: In GainRadioModel.receive, received packet for 65535, discarding it.
+DEBUG (2): TossimPacketModelC: In GainRadioModel.receive, Received packet of type 0
+DEBUG (2): TossimPacketModelC: In GainRadioModel.receive, received packet for 65535, discarding it.
+DEBUG (3): TossimPacketModelC: In GainRadioModel.receive, Received packet of type 0
+DEBUG (3): TossimPacketModelC: In GainRadioModel.receive, received packet for 65535, discarding it.
+DEBUG (0): PACKET: Received ack at 175820966721.
+DEBUG (0): PACKET: Signaling send done at 175820966721.

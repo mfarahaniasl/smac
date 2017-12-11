@@ -1,0 +1,932 @@
+DEBUG (0): 	 Note booted as BaseStation. 	@0:0:0.002354239
+DEBUG (1): 	 Note booted as Member. 	@0:0:0.002589361
+DEBUG (2): 	 Note booted as Member. 	@0:0:0.002824483
+DEBUG (3): 	 Note booted as Member. 	@0:0:0.003059605
+DEBUG (4): 	 Note booted as Member. 	@0:0:0.003294726
+DEBUG (5): 	 Note booted as Member. 	@0:0:0.003529848
+DEBUG (6): 	 Note booted as Member. 	@0:0:0.003764970
+DEBUG (7): 	 Note booted as Member. 	@0:0:0.004000091
+DEBUG (8): 	 Note booted as Member. 	@0:0:0.004235213
+DEBUG (9): 	 Note booted as Member. 	@0:0:0.004470335
+DEBUG (10): 	 Note booted as Member. 	@0:0:0.004705456
+DEBUG (11): 	 Note booted as Member. 	@0:0:0.004940578
+DEBUG (12): 	 Note booted as Member. 	@0:0:0.005175700
+DEBUG (0): 	 Radio Stop done. 	@0:0:0.392979259
+DEBUG (1): 	 Radio Stop done. 	@0:0:0.393214381
+DEBUG (2): 	 Radio Stop done. 	@0:0:0.393449503
+DEBUG (3): 	 Radio Stop done. 	@0:0:0.393684625
+DEBUG (4): 	 Radio Stop done. 	@0:0:0.393919746
+DEBUG (5): 	 Radio Stop done. 	@0:0:0.394154868
+DEBUG (6): 	 Radio Stop done. 	@0:0:0.394389990
+DEBUG (7): 	 Radio Stop done. 	@0:0:0.394625111
+DEBUG (8): 	 Radio Stop done. 	@0:0:0.394860233
+DEBUG (9): 	 Radio Stop done. 	@0:0:0.395095355
+DEBUG (10): 	 Radio Stop done. 	@0:0:0.395330476
+DEBUG (11): 	 Radio Stop done. 	@0:0:0.395565598
+DEBUG (12): 	 Radio Stop done. 	@0:0:0.395800720
+DEBUG (0): 	 Radio Start done. @0:0:0.978916759	
+DEBUG (0): 	 Annonce timer Fired. 	@0:0:0.978916769
+DEBUG (0): 	 Node annonce as BaseStation. 	@0:0:0.978916769
+DEBUG (1): 	 Radio Start done. @0:0:0.979151881	
+DEBUG (2): 	 Radio Start done. @0:0:0.979387003	
+DEBUG (3): 	 Radio Start done. @0:0:0.979622125	
+DEBUG (4): 	 Radio Start done. @0:0:0.979857246	
+DEBUG (5): 	 Radio Start done. @0:0:0.980092368	
+DEBUG (6): 	 Radio Start done. @0:0:0.980327490	
+DEBUG (4): 	 I see BaseStation. 	@0:0:0.980366346
+DEBUG (4): 	 BaseStation link strong is -77. 	@0:0:0.980366346
+DEBUG (2): 	 I see BaseStation. 	@0:0:0.980366346
+DEBUG (2): 	 BaseStation link strong is -74. 	@0:0:0.980366346
+DEBUG (1): 	 I see BaseStation. 	@0:0:0.980366346
+DEBUG (1): 	 BaseStation link strong is -77. 	@0:0:0.980366346
+DEBUG (3): 	 I see BaseStation. 	@0:0:0.980366346
+DEBUG (3): 	 BaseStation link strong is -80. 	@0:0:0.980366346
+DEBUG (7): 	 Radio Start done. @0:0:0.980562611	
+DEBUG (8): 	 Radio Start done. @0:0:0.980797733	
+DEBUG (9): 	 Radio Start done. @0:0:0.981032855	
+DEBUG (10): 	 Radio Start done. @0:0:0.981267976	
+DEBUG (11): 	 Radio Start done. @0:0:0.981503098	
+DEBUG (12): 	 Radio Start done. @0:0:0.981738220	
+DEBUG (0): 	 Ready to transmite(1). 	@0:0:1.076572999
+DEBUG (1): 	 Ready to transmite(1). 	@0:0:1.076808121
+DEBUG (2): 	 Ready to transmite(1). 	@0:0:1.077043243
+DEBUG (3): 	 Ready to transmite(1). 	@0:0:1.077278365
+DEBUG (4): 	 Ready to transmite(1). 	@0:0:1.077513486
+DEBUG (5): 	 Ready to transmite(1). 	@0:0:1.077748608
+DEBUG (6): 	 Ready to transmite(1). 	@0:0:1.077983730
+DEBUG (7): 	 Ready to transmite(1). 	@0:0:1.078218851
+DEBUG (8): 	 Ready to transmite(1). 	@0:0:1.078453973
+DEBUG (9): 	 Ready to transmite(1). 	@0:0:1.078689095
+DEBUG (10): 	 Ready to transmite(1). 	@0:0:1.078924216
+DEBUG (11): 	 Ready to transmite(1). 	@0:0:1.079159338
+DEBUG (12): 	 Ready to transmite(1). 	@0:0:1.079394460
+DEBUG (0): 	 Radio Stop done. 	@0:0:1.369541759
+DEBUG (1): 	 Radio Stop done. 	@0:0:1.369776881
+DEBUG (2): 	 Radio Stop done. 	@0:0:1.370012003
+DEBUG (3): 	 Radio Stop done. 	@0:0:1.370247125
+DEBUG (4): 	 Radio Stop done. 	@0:0:1.370482246
+DEBUG (5): 	 Radio Stop done. 	@0:0:1.370717368
+DEBUG (6): 	 Radio Stop done. 	@0:0:1.370952490
+DEBUG (7): 	 Radio Stop done. 	@0:0:1.371187611
+DEBUG (8): 	 Radio Stop done. 	@0:0:1.371422733
+DEBUG (9): 	 Radio Stop done. 	@0:0:1.371657855
+DEBUG (10): 	 Radio Stop done. 	@0:0:1.371892976
+DEBUG (11): 	 Radio Stop done. 	@0:0:1.372128098
+DEBUG (12): 	 Radio Stop done. 	@0:0:1.372363220
+DEBUG (0): 	 Radio Start done. @0:0:1.955479259	
+DEBUG (0): 	 Annonce timer Fired. 	@0:0:1.955479269
+DEBUG (0): 	 Node annonce as BaseStation. 	@0:0:1.955479269
+DEBUG (1): 	 Radio become alive and time tick is 2. 	@0:0:1.955714371
+DEBUG (1): 	 Radio Start done. @0:0:1.955714381	
+DEBUG (2): 	 Radio become alive and time tick is 2. 	@0:0:1.955949493
+DEBUG (2): 	 Radio Start done. @0:0:1.955949503	
+DEBUG (3): 	 Radio become alive and time tick is 2. 	@0:0:1.956184615
+DEBUG (3): 	 Radio Start done. @0:0:1.956184625	
+DEBUG (4): 	 Radio become alive and time tick is 2. 	@0:0:1.956419736
+DEBUG (4): 	 Radio Start done. @0:0:1.956419746	
+DEBUG (5): 	 Radio Start done. @0:0:1.956654868	
+DEBUG (6): 	 Radio Start done. @0:0:1.956889990	
+DEBUG (7): 	 Radio Start done. @0:0:1.957125111	
+DEBUG (8): 	 Radio Start done. @0:0:1.957360233	
+DEBUG (9): 	 Radio Start done. @0:0:1.957595355	
+DEBUG (10): 	 Radio Start done. @0:0:1.957830476	
+DEBUG (11): 	 Radio Start done. @0:0:1.958065598	
+DEBUG (12): 	 Radio Start done. @0:0:1.958300720	
+DEBUG (12): 	 I see BaseStation. 	@0:0:1.964344574
+DEBUG (12): 	 BaseStation link strong is -83. 	@0:0:1.964344574
+DEBUG (0): 	 Ready to transmite(1). 	@0:0:2.053135499
+DEBUG (1): 	 Ready to transmite(2). 	@0:0:2.053370621
+DEBUG (2): 	 Ready to transmite(2). 	@0:0:2.053605743
+DEBUG (3): 	 Ready to transmite(2). 	@0:0:2.053840865
+DEBUG (4): 	 Ready to transmite(2). 	@0:0:2.054075986
+DEBUG (5): 	 Ready to transmite(1). 	@0:0:2.054311108
+DEBUG (6): 	 Ready to transmite(1). 	@0:0:2.054546230
+DEBUG (7): 	 Ready to transmite(1). 	@0:0:2.054781351
+DEBUG (8): 	 Ready to transmite(1). 	@0:0:2.055016473
+DEBUG (9): 	 Ready to transmite(1). 	@0:0:2.055251595
+DEBUG (10): 	 Ready to transmite(1). 	@0:0:2.055486716
+DEBUG (11): 	 Ready to transmite(1). 	@0:0:2.055721838
+DEBUG (12): 	 Ready to transmite(1). 	@0:0:2.055956960
+DEBUG (0): 	 Radio Stop done. 	@0:0:2.346104259
+DEBUG (2): 	 Radio Stop done. 	@0:0:2.346574503
+DEBUG (3): 	 Radio Stop done. 	@0:0:2.346809625
+DEBUG (4): 	 Radio Stop done. 	@0:0:2.347044746
+DEBUG (5): 	 Radio Stop done. 	@0:0:2.347279868
+DEBUG (1): 	 Radio Stop done. 	@0:0:2.347315944
+DEBUG (6): 	 Radio Stop done. 	@0:0:2.347514990
+DEBUG (7): 	 Radio Stop done. 	@0:0:2.347750111
+DEBUG (8): 	 Radio Stop done. 	@0:0:2.347985233
+DEBUG (9): 	 Radio Stop done. 	@0:0:2.348220355
+DEBUG (10): 	 Radio Stop done. 	@0:0:2.348455476
+DEBUG (11): 	 Radio Stop done. 	@0:0:2.348690598
+DEBUG (12): 	 Radio Stop done. 	@0:0:2.348925720
+DEBUG (0): 	 Radio Start done. @0:0:2.932041759	
+DEBUG (0): 	 Annonce timer Fired. 	@0:0:2.932041769
+DEBUG (0): 	 Node annonce as BaseStation. 	@0:0:2.932041769
+DEBUG (2): 	 Radio become alive and time tick is 3. 	@0:0:2.932511993
+DEBUG (2): 	 Radio Start done. @0:0:2.932512003	
+DEBUG (3): 	 Radio become alive and time tick is 3. 	@0:0:2.932747115
+DEBUG (3): 	 Radio Start done. @0:0:2.932747125	
+DEBUG (4): 	 Radio become alive and time tick is 3. 	@0:0:2.932982236
+DEBUG (4): 	 Radio Start done. @0:0:2.932982246	
+DEBUG (5): 	 Radio Start done. @0:0:2.933217368	
+DEBUG (1): 	 Radio become alive and time tick is 3. 	@0:0:2.933253434
+DEBUG (1): 	 Radio Start done. @0:0:2.933253444	
+DEBUG (6): 	 Radio Start done. @0:0:2.933452490	
+DEBUG (7): 	 Radio Start done. @0:0:2.933687611	
+DEBUG (8): 	 Radio Start done. @0:0:2.933922733	
+DEBUG (9): 	 Radio Start done. @0:0:2.934157855	
+DEBUG (10): 	 Radio Start done. @0:0:2.934392976	
+DEBUG (11): 	 Radio Start done. @0:0:2.934628098	
+DEBUG (12): 	 Radio become alive and time tick is 2. 	@0:0:2.934863210
+DEBUG (12): 	 Radio Start done. @0:0:2.934863220	
+DEBUG (11): 	 I see BaseStation. 	@0:0:2.940830781
+DEBUG (11): 	 BaseStation link strong is -79. 	@0:0:2.940830781
+DEBUG (9): 	 I see BaseStation. 	@0:0:2.940830781
+DEBUG (9): 	 BaseStation link strong is -79. 	@0:0:2.940830781
+DEBUG (0): 	 Ready to transmite(1). 	@0:0:3.029697999
+DEBUG (2): 	 Ready to transmite(3). 	@0:0:3.030168243
+DEBUG (3): 	 Ready to transmite(3). 	@0:0:3.030403365
+DEBUG (4): 	 Ready to transmite(3). 	@0:0:3.030638486
+DEBUG (5): 	 Ready to transmite(1). 	@0:0:3.030873608
+DEBUG (1): 	 Ready to transmite(3). 	@0:0:3.030909684
+DEBUG (6): 	 Ready to transmite(1). 	@0:0:3.031108730
+DEBUG (7): 	 Ready to transmite(1). 	@0:0:3.031343851
+DEBUG (8): 	 Ready to transmite(1). 	@0:0:3.031578973
+DEBUG (9): 	 Ready to transmite(1). 	@0:0:3.031814095
+DEBUG (10): 	 Ready to transmite(1). 	@0:0:3.032049216
+DEBUG (11): 	 Ready to transmite(1). 	@0:0:3.032284338
+DEBUG (12): 	 Ready to transmite(2). 	@0:0:3.032519460
+DEBUG (0): 	 Radio Stop done. 	@0:0:3.322666759
+DEBUG (3): 	 Radio Stop done. 	@0:0:3.323372125
+DEBUG (5): 	 Radio Stop done. 	@0:0:3.323842368
+DEBUG (1): 	 Radio Stop done. 	@0:0:3.323878444
+DEBUG (6): 	 Radio Stop done. 	@0:0:3.324077490
+DEBUG (7): 	 Radio Stop done. 	@0:0:3.324312611
+DEBUG (8): 	 Radio Stop done. 	@0:0:3.324547733
+DEBUG (9): 	 Radio Stop done. 	@0:0:3.324782855
+DEBUG (10): 	 Radio Stop done. 	@0:0:3.325017976
+DEBUG (2): 	 Radio Stop done. 	@0:0:3.325090128
+DEBUG (11): 	 Radio Stop done. 	@0:0:3.325253098
+DEBUG (12): 	 Radio Stop done. 	@0:0:3.325488220
+DEBUG (4): 	 Radio Stop done. 	@0:0:3.326536934
+DEBUG (0): 	 Radio Start done. @0:0:3.908604259	
+DEBUG (0): 	 Annonce timer Fired. 	@0:0:3.908604269
+DEBUG (0): 	 Node annonce as BaseStation. 	@0:0:3.908604269
+DEBUG (3): 	 Radio become alive and time tick is 4. 	@0:0:3.909309615
+DEBUG (3): 	 Radio Start done. @0:0:3.909309625	
+DEBUG (5): 	 Radio Start done. @0:0:3.909779868	
+DEBUG (1): 	 Radio become alive and time tick is 4. 	@0:0:3.909815934
+DEBUG (1): 	 Radio Start done. @0:0:3.909815944	
+DEBUG (6): 	 Radio Start done. @0:0:3.910014990	
+DEBUG (7): 	 Radio Start done. @0:0:3.910250111	
+DEBUG (8): 	 Radio Start done. @0:0:3.910485233	
+DEBUG (9): 	 Radio become alive and time tick is 2. 	@0:0:3.910720345
+DEBUG (9): 	 Radio Start done. @0:0:3.910720355	
+DEBUG (10): 	 Radio Start done. @0:0:3.910955476	
+DEBUG (2): 	 Radio become alive and time tick is 4. 	@0:0:3.911027618
+DEBUG (2): 	 Radio Start done. @0:0:3.911027628	
+DEBUG (11): 	 Radio become alive and time tick is 2. 	@0:0:3.911190588
+DEBUG (11): 	 Radio Start done. @0:0:3.911190598	
+DEBUG (12): 	 Radio become alive and time tick is 3. 	@0:0:3.911425710
+DEBUG (12): 	 Radio Start done. @0:0:3.911425720	
+DEBUG (4): 	 Radio become alive and time tick is 4. 	@0:0:3.912474424
+DEBUG (4): 	 Radio Start done. @0:0:3.912474434	
+DEBUG (0): 	 Ready to transmite(1). 	@0:0:4.006260499
+DEBUG (3): 	 Ready to transmite(4). 	@0:0:4.006965865
+DEBUG (5): 	 Ready to transmite(1). 	@0:0:4.007436108
+DEBUG (1): 	 Ready to transmite(4). 	@0:0:4.007472184
+DEBUG (6): 	 Ready to transmite(1). 	@0:0:4.007671230
+DEBUG (7): 	 Ready to transmite(1). 	@0:0:4.007906351
+DEBUG (8): 	 Ready to transmite(1). 	@0:0:4.008141473
+DEBUG (9): 	 Ready to transmite(2). 	@0:0:4.008376595
+DEBUG (10): 	 Ready to transmite(1). 	@0:0:4.008611716
+DEBUG (2): 	 Ready to transmite(4). 	@0:0:4.008683868
+DEBUG (11): 	 Ready to transmite(2). 	@0:0:4.008846838
+DEBUG (12): 	 Ready to transmite(3). 	@0:0:4.009081960
+DEBUG (4): 	 Ready to transmite(4). 	@0:0:4.010130674
+DEBUG (0): 	 Radio Stop done. 	@0:0:4.299229259
+DEBUG (3): 	 Radio Stop done. 	@0:0:4.299934625
+DEBUG (5): 	 Radio Stop done. 	@0:0:4.300404868
+DEBUG (6): 	 Radio Stop done. 	@0:0:4.300639990
+DEBUG (2): 	 Radio Stop done. 	@0:0:4.300676065
+DEBUG (7): 	 Radio Stop done. 	@0:0:4.300875111
+DEBUG (8): 	 Radio Stop done. 	@0:0:4.301110233
+DEBUG (9): 	 Radio Stop done. 	@0:0:4.301345355
+DEBUG (10): 	 Radio Stop done. 	@0:0:4.301580476
+DEBUG (11): 	 Radio Stop done. 	@0:0:4.301815598
+DEBUG (1): 	 Radio Stop done. 	@0:0:4.302394069
+DEBUG (4): 	 Radio Stop done. 	@0:0:4.303099434
+DEBUG (12): 	 Radio Stop done. 	@0:0:4.304003845
+DEBUG (0): 	 Radio Start done. @0:0:4.885166759	
+DEBUG (0): 	 Annonce timer Fired. 	@0:0:4.885166769
+DEBUG (0): 	 Node annonce as BaseStation. 	@0:0:4.885166769
+DEBUG (3): 	 Radio become alive and time tick is 5. 	@0:0:4.885872115
+DEBUG (3): 	 Radio Start done. @0:0:4.885872125	
+DEBUG (5): 	 Radio Start done. @0:0:4.886342368	
+DEBUG (6): 	 Radio Start done. @0:0:4.886577490	
+DEBUG (2): 	 Radio become alive and time tick is 5. 	@0:0:4.886613555
+DEBUG (2): 	 Radio Start done. @0:0:4.886613565	
+DEBUG (7): 	 Radio Start done. @0:0:4.886812611	
+DEBUG (8): 	 Radio Start done. @0:0:4.887047733	
+DEBUG (9): 	 Radio become alive and time tick is 3. 	@0:0:4.887282845
+DEBUG (9): 	 Radio Start done. @0:0:4.887282855	
+DEBUG (10): 	 Radio Start done. @0:0:4.887517976	
+DEBUG (11): 	 Radio become alive and time tick is 3. 	@0:0:4.887753088
+DEBUG (11): 	 Radio Start done. @0:0:4.887753098	
+DEBUG (1): 	 Radio become alive and time tick is 5. 	@0:0:4.888331559
+DEBUG (1): 	 Radio Start done. @0:0:4.888331569	
+DEBUG (4): 	 Radio become alive and time tick is 5. 	@0:0:4.889036924
+DEBUG (4): 	 Radio Start done. @0:0:4.889036934	
+DEBUG (12): 	 Radio become alive and time tick is 4. 	@0:0:4.889941335
+DEBUG (12): 	 Radio Start done. @0:0:4.889941345	
+DEBUG (0): 	 Ready to transmite(1). 	@0:0:4.982822999
+DEBUG (3): 	 Ready to transmite(5). 	@0:0:4.983528365
+DEBUG (5): 	 Ready to transmite(1). 	@0:0:4.983998608
+DEBUG (6): 	 Ready to transmite(1). 	@0:0:4.984233730
+DEBUG (2): 	 Ready to transmite(5). 	@0:0:4.984269805
+DEBUG (7): 	 Ready to transmite(1). 	@0:0:4.984468851
+DEBUG (8): 	 Ready to transmite(1). 	@0:0:4.984703973
+DEBUG (9): 	 Ready to transmite(3). 	@0:0:4.984939095
+DEBUG (10): 	 Ready to transmite(1). 	@0:0:4.985174216
+DEBUG (11): 	 Ready to transmite(3). 	@0:0:4.985409338
+DEBUG (1): 	 Ready to transmite(5). 	@0:0:4.985987809
+DEBUG (4): 	 Ready to transmite(5). 	@0:0:4.986693174
+DEBUG (12): 	 Ready to transmite(4). 	@0:0:4.987597585
+DEBUG (7): 	 Appearance fired. 	@0:0:5.261812601
+DEBUG (7): 	 Appearance fired but i'm mote too. 	@0:0:5.261812601
+DEBUG (0): 	 Radio Stop done. 	@0:0:5.275791759
+DEBUG (3): 	 Radio Stop done. 	@0:0:5.276497125
+DEBUG (5): 	 Radio Stop done. 	@0:0:5.276967368
+DEBUG (6): 	 Radio Stop done. 	@0:0:5.277202490
+DEBUG (2): 	 Radio Stop done. 	@0:0:5.277238565
+DEBUG (7): 	 Radio Stop done. 	@0:0:5.277437611
+DEBUG (8): 	 Radio Stop done. 	@0:0:5.277672733
+DEBUG (9): 	 Radio Stop done. 	@0:0:5.277907855
+DEBUG (10): 	 Radio Stop done. 	@0:0:5.278142976
+DEBUG (11): 	 Radio Stop done. 	@0:0:5.278378098
+DEBUG (1): 	 Radio Stop done. 	@0:0:5.278956569
+DEBUG (4): 	 Radio Stop done. 	@0:0:5.279661934
+DEBUG (12): 	 Radio Stop done. 	@0:0:5.280566345
+DEBUG (0): 	 Radio Start done. @0:0:5.861729259	
+DEBUG (0): 	 Annonce timer Fired. 	@0:0:5.861729269
+DEBUG (0): 	 Node annonce as BaseStation. 	@0:0:5.861729269
+DEBUG (3): 	 Radio become alive and time tick is 6. 	@0:0:5.862434615
+DEBUG (3): 	 Radio Start done. @0:0:5.862434625	
+DEBUG (5): 	 Radio Start done. @0:0:5.862904868	
+DEBUG (6): 	 Radio Start done. @0:0:5.863139990	
+DEBUG (2): 	 Radio become alive and time tick is 6. 	@0:0:5.863176055
+DEBUG (2): 	 Radio Start done. @0:0:5.863176065	
+DEBUG (6): 	 I see BaseStation. 	@0:0:5.863178846
+DEBUG (6): 	 BaseStation link strong is -89. 	@0:0:5.863178846
+DEBUG (7): 	 Radio Start done. @0:0:5.863375111	
+DEBUG (8): 	 Radio Start done. @0:0:5.863610233	
+DEBUG (9): 	 Radio become alive and time tick is 4. 	@0:0:5.863845345
+DEBUG (9): 	 Radio Start done. @0:0:5.863845355	
+DEBUG (10): 	 Radio Start done. @0:0:5.864080476	
+DEBUG (11): 	 Radio become alive and time tick is 4. 	@0:0:5.864315588
+DEBUG (11): 	 Radio Start done. @0:0:5.864315598	
+DEBUG (1): 	 Radio become alive and time tick is 6. 	@0:0:5.864894059
+DEBUG (1): 	 Radio Start done. @0:0:5.864894069	
+DEBUG (4): 	 Radio become alive and time tick is 6. 	@0:0:5.865599424
+DEBUG (4): 	 Radio Start done. @0:0:5.865599434	
+DEBUG (12): 	 Radio become alive and time tick is 5. 	@0:0:5.866503835
+DEBUG (12): 	 Radio Start done. @0:0:5.866503845	
+DEBUG (7): 	 New sync received from 12. 	@0:0:5.944623468
+DEBUG (7): 	 Node 7 joined to 12 as member. 	@0:0:5.944623468
+DEBUG (0): 	 Ready to transmite(1). 	@0:0:5.959385499
+DEBUG (3): 	 Ready to transmite(6). 	@0:0:5.960090865
+DEBUG (5): 	 Ready to transmite(1). 	@0:0:5.960561108
+DEBUG (6): 	 Ready to transmite(1). 	@0:0:5.960796230
+DEBUG (2): 	 Ready to transmite(6). 	@0:0:5.960832305
+DEBUG (7): 	 Ready to transmite(1). 	@0:0:5.961031351
+DEBUG (8): 	 Ready to transmite(1). 	@0:0:5.961266473
+DEBUG (9): 	 Ready to transmite(4). 	@0:0:5.961501595
+DEBUG (10): 	 Ready to transmite(1). 	@0:0:5.961736716
+DEBUG (11): 	 Ready to transmite(4). 	@0:0:5.961971838
+DEBUG (1): 	 Ready to transmite(6). 	@0:0:5.962550309
+DEBUG (4): 	 Ready to transmite(6). 	@0:0:5.963255674
+DEBUG (12): 	 Ready to transmite(5). 	@0:0:5.964160085
+DEBUG (0): 	 Radio Stop done. 	@0:0:6.252354259
+DEBUG (3): 	 Radio Stop done. 	@0:0:6.253059625
+DEBUG (5): 	 Radio Stop done. 	@0:0:6.253529868
+DEBUG (1): 	 Radio Stop done. 	@0:0:6.253565944
+DEBUG (6): 	 Radio Stop done. 	@0:0:6.253764990
+DEBUG (2): 	 Radio Stop done. 	@0:0:6.253801065
+DEBUG (8): 	 Radio Stop done. 	@0:0:6.254235233
+DEBUG (9): 	 Radio Stop done. 	@0:0:6.254470355
+DEBUG (10): 	 Radio Stop done. 	@0:0:6.254705476
+DEBUG (11): 	 Radio Stop done. 	@0:0:6.254940598
+DEBUG (12): 	 Radio Stop done. 	@0:0:6.257128845
+DEBUG (4): 	 Radio Stop done. 	@0:0:6.257200996
+DEBUG (7): 	 Radio Stop done. 	@0:0:6.257906361
+DEBUG (0): 	 Radio Start done. @0:0:6.838291759	
+DEBUG (0): 	 Annonce timer Fired. 	@0:0:6.838291769
+DEBUG (0): 	 Node annonce as BaseStation. 	@0:0:6.838291769
+DEBUG (3): 	 Radio become alive and time tick is 7. 	@0:0:6.838997115
+DEBUG (3): 	 Radio Start done. @0:0:6.838997125	
+DEBUG (5): 	 Radio Start done. @0:0:6.839467368	
+DEBUG (1): 	 Radio become alive and time tick is 7. 	@0:0:6.839503434
+DEBUG (1): 	 Radio Start done. @0:0:6.839503444	
+DEBUG (6): 	 Radio become alive and time tick is 2. 	@0:0:6.839702480
+DEBUG (6): 	 Radio Start done. @0:0:6.839702490	
+DEBUG (2): 	 Radio become alive and time tick is 7. 	@0:0:6.839738555
+DEBUG (2): 	 Radio Start done. @0:0:6.839738565	
+DEBUG (8): 	 Radio Start done. @0:0:6.840172733	
+DEBUG (9): 	 Radio become alive and time tick is 5. 	@0:0:6.840407845
+DEBUG (9): 	 Radio Start done. @0:0:6.840407855	
+DEBUG (10): 	 Radio Start done. @0:0:6.840642976	
+DEBUG (11): 	 Radio become alive and time tick is 5. 	@0:0:6.840878088
+DEBUG (11): 	 Radio Start done. @0:0:6.840878098	
+DEBUG (12): 	 Radio become alive and time tick is 6. 	@0:0:6.843066335
+DEBUG (12): 	 Radio Start done. @0:0:6.843066345	
+DEBUG (4): 	 Radio become alive and time tick is 7. 	@0:0:6.843138486
+DEBUG (4): 	 Radio Start done. @0:0:6.843138496	
+DEBUG (7): 	 Radio Start done. @0:0:6.843843861	
+DEBUG (7): 	 New sync received from 12. 	@0:0:6.872815889
+DEBUG (0): 	 Ready to transmite(1). 	@0:0:6.935947999
+DEBUG (3): 	 Ready to transmite(7). 	@0:0:6.936653365
+DEBUG (5): 	 Ready to transmite(1). 	@0:0:6.937123608
+DEBUG (1): 	 Ready to transmite(7). 	@0:0:6.937159684
+DEBUG (6): 	 Ready to transmite(2). 	@0:0:6.937358730
+DEBUG (2): 	 Ready to transmite(7). 	@0:0:6.937394805
+DEBUG (8): 	 Ready to transmite(1). 	@0:0:6.937828973
+DEBUG (9): 	 Ready to transmite(5). 	@0:0:6.938064095
+DEBUG (10): 	 Ready to transmite(1). 	@0:0:6.938299216
+DEBUG (11): 	 Ready to transmite(5). 	@0:0:6.938534338
+DEBUG (12): 	 Ready to transmite(6). 	@0:0:6.940722585
+DEBUG (4): 	 Ready to transmite(7). 	@0:0:6.940794736
+DEBUG (7): 	 Ready to transmite(1). 	@0:0:6.941500101
+DEBUG (8): 	 Appearance fired. 	@0:0:7.026696161
+DEBUG (8): 	 Appearance fired but i'm mote too. 	@0:0:7.026696161
+DEBUG (5): 	 Appearance fired. 	@0:0:7.138295483
+DEBUG (5): 	 Appearance fired but i'm mote too. 	@0:0:7.138295483
+DEBUG (0): 	 Radio Stop done. 	@0:0:7.228916759
+DEBUG (5): 	 Radio Stop done. 	@0:0:7.230092368
+DEBUG (8): 	 Radio Stop done. 	@0:0:7.230797733
+DEBUG (9): 	 Radio Stop done. 	@0:0:7.231032855
+DEBUG (10): 	 Radio Stop done. 	@0:0:7.231267976
+DEBUG (11): 	 Radio Stop done. 	@0:0:7.231503098
+DEBUG (3): 	 Radio Stop done. 	@0:0:7.231575250
+DEBUG (1): 	 Radio Stop done. 	@0:0:7.232081569
+DEBUG (6): 	 Radio Stop done. 	@0:0:7.232280615
+DEBUG (2): 	 Radio Stop done. 	@0:0:7.232316690
+DEBUG (12): 	 Radio Stop done. 	@0:0:7.233691345
+DEBUG (4): 	 Radio Stop done. 	@0:0:7.233763496
+DEBUG (7): 	 Radio Stop done. 	@0:0:7.234468861
+DEBUG (10): 	 Appearance fired. 	@0:0:7.626775779
+DEBUG (10): 	 Appearance fired but i'm mote too. 	@0:0:7.626775779
+DEBUG (0): 	 Radio Start done. @0:0:7.814854259	
+DEBUG (0): 	 Annonce timer Fired. 	@0:0:7.814854269
+DEBUG (0): 	 Node annonce as BaseStation. 	@0:0:7.814854269
+DEBUG (5): 	 Radio Start done. @0:0:7.816029868	
+DEBUG (8): 	 Radio Start done. @0:0:7.816735233	
+DEBUG (9): 	 Radio become alive and time tick is 6. 	@0:0:7.816970345
+DEBUG (9): 	 Radio Start done. @0:0:7.816970355	
+DEBUG (10): 	 Radio Start done. @0:0:7.817205476	
+DEBUG (11): 	 Radio become alive and time tick is 6. 	@0:0:7.817440588
+DEBUG (11): 	 Radio Start done. @0:0:7.817440598	
+DEBUG (3): 	 Radio become alive and time tick is 8. 	@0:0:7.817512740
+DEBUG (3): 	 Radio Start done. @0:0:7.817512750	
+DEBUG (1): 	 Radio become alive and time tick is 8. 	@0:0:7.818019059
+DEBUG (1): 	 Radio Start done. @0:0:7.818019069	
+DEBUG (6): 	 Radio become alive and time tick is 3. 	@0:0:7.818218105
+DEBUG (6): 	 Radio Start done. @0:0:7.818218115	
+DEBUG (2): 	 Radio become alive and time tick is 8. 	@0:0:7.818254180
+DEBUG (2): 	 Radio Start done. @0:0:7.818254190	
+DEBUG (12): 	 Radio become alive and time tick is 7. 	@0:0:7.819628835
+DEBUG (12): 	 Radio Start done. @0:0:7.819628845	
+DEBUG (4): 	 Radio become alive and time tick is 8. 	@0:0:7.819700986
+DEBUG (4): 	 Radio Start done. @0:0:7.819700996	
+DEBUG (7): 	 Radio Start done. @0:0:7.820406361	
+DEBUG (5): 	 New sync received from 1. 	@0:0:7.824727976
+DEBUG (5): 	 Node 5 joined to 1 as member. 	@0:0:7.824727976
+DEBUG (5): 	 New sync received from 9. 	@0:0:7.829324981
+DEBUG (5): 	 New sync received from 2. 	@0:0:7.831524339
+DEBUG (7): 	 New sync received from 12. 	@0:0:7.883252703
+DEBUG (0): 	 Ready to transmite(1). 	@0:0:7.912510499
+DEBUG (5): 	 Ready to transmite(1). 	@0:0:7.913686108
+DEBUG (8): 	 Ready to transmite(1). 	@0:0:7.914391473
+DEBUG (9): 	 Ready to transmite(6). 	@0:0:7.914626595
+DEBUG (10): 	 Ready to transmite(1). 	@0:0:7.914861716
+DEBUG (11): 	 Ready to transmite(6). 	@0:0:7.915096838
+DEBUG (3): 	 Ready to transmite(8). 	@0:0:7.915168990
+DEBUG (1): 	 Ready to transmite(8). 	@0:0:7.915675309
+DEBUG (6): 	 Ready to transmite(3). 	@0:0:7.915874355
+DEBUG (2): 	 Ready to transmite(8). 	@0:0:7.915910430
+DEBUG (12): 	 Ready to transmite(7). 	@0:0:7.917285085
+DEBUG (4): 	 Ready to transmite(8). 	@0:0:7.917357236
+DEBUG (7): 	 Ready to transmite(1). 	@0:0:7.918062601
+DEBUG (0): 	 Radio Stop done. 	@0:0:8.205479259
+DEBUG (8): 	 Radio Stop done. 	@0:0:8.207360233
+DEBUG (9): 	 Radio Stop done. 	@0:0:8.207595355
+DEBUG (10): 	 Radio Stop done. 	@0:0:8.207830476
+DEBUG (11): 	 Radio Stop done. 	@0:0:8.208065598
+DEBUG (1): 	 Radio Stop done. 	@0:0:8.208644069
+DEBUG (6): 	 Radio Stop done. 	@0:0:8.208843115
+DEBUG (2): 	 Radio Stop done. 	@0:0:8.208879190
+DEBUG (5): 	 Radio Stop done. 	@0:0:8.209584555
+DEBUG (3): 	 Radio Stop done. 	@0:0:8.210090875
+DEBUG (12): 	 Radio Stop done. 	@0:0:8.210253845
+DEBUG (7): 	 Radio Stop done. 	@0:0:8.211031361
+DEBUG (4): 	 Radio Stop done. 	@0:0:8.211302559
+DEBUG (0): 	 Radio Start done. @0:0:8.791416759	
+DEBUG (0): 	 Annonce timer Fired. 	@0:0:8.791416769
+DEBUG (0): 	 Node annonce as BaseStation. 	@0:0:8.791416769
+DEBUG (8): 	 Radio Start done. @0:0:8.793297733	
+DEBUG (9): 	 Radio become alive and time tick is 7. 	@0:0:8.793532845
+DEBUG (9): 	 Radio Start done. @0:0:8.793532855	
+DEBUG (10): 	 Radio Start done. @0:0:8.793767976	
+DEBUG (11): 	 Radio become alive and time tick is 7. 	@0:0:8.794003088
+DEBUG (11): 	 Radio Start done. @0:0:8.794003098	
+DEBUG (1): 	 Radio become alive and time tick is 9. 	@0:0:8.794581559
+DEBUG (1): 	 Radio Start done. @0:0:8.794581569	
+DEBUG (6): 	 Radio become alive and time tick is 4. 	@0:0:8.794780605
+DEBUG (6): 	 Radio Start done. @0:0:8.794780615	
+DEBUG (2): 	 Radio become alive and time tick is 9. 	@0:0:8.794816680
+DEBUG (2): 	 Radio Start done. @0:0:8.794816690	
+DEBUG (5): 	 Radio Start done. @0:0:8.795522055	
+DEBUG (3): 	 Radio become alive and time tick is 9. 	@0:0:8.796028365
+DEBUG (3): 	 Radio Start done. @0:0:8.796028375	
+DEBUG (12): 	 Radio become alive and time tick is 8. 	@0:0:8.796191335
+DEBUG (12): 	 Radio Start done. @0:0:8.796191345	
+DEBUG (7): 	 Radio Start done. @0:0:8.796968861	
+DEBUG (4): 	 Radio become alive and time tick is 9. 	@0:0:8.797240049
+DEBUG (4): 	 Radio Start done. @0:0:8.797240059	
+DEBUG (8): 	 New sync received from 12. 	@0:0:8.812208059
+DEBUG (8): 	 Node 8 joined to 12 as member. 	@0:0:8.812208059
+DEBUG (8): 	 New sync received from 1. 	@0:0:8.841878618
+DEBUG (7): 	 New sync received from 9. 	@0:0:8.853342038
+DEBUG (7): 	 New sync received from 3. 	@0:0:8.880861826
+DEBUG (0): 	 Ready to transmite(1). 	@0:0:8.889072999
+DEBUG (8): 	 Ready to transmite(1). 	@0:0:8.890953973
+DEBUG (9): 	 Ready to transmite(7). 	@0:0:8.891189095
+DEBUG (10): 	 Ready to transmite(1). 	@0:0:8.891424216
+DEBUG (11): 	 Ready to transmite(7). 	@0:0:8.891659338
+DEBUG (1): 	 Ready to transmite(9). 	@0:0:8.892237809
+DEBUG (6): 	 Ready to transmite(4). 	@0:0:8.892436855
+DEBUG (2): 	 Ready to transmite(9). 	@0:0:8.892472930
+DEBUG (5): 	 Ready to transmite(1). 	@0:0:8.893178295
+DEBUG (8): 	 New sync received from 4. 	@0:0:8.893212361
+DEBUG (3): 	 Ready to transmite(9). 	@0:0:8.893684615
+DEBUG (12): 	 Ready to transmite(8). 	@0:0:8.893847585
+DEBUG (7): 	 Ready to transmite(1). 	@0:0:8.894625101
+DEBUG (4): 	 Ready to transmite(9). 	@0:0:8.894896299
+DEBUG (0): 	 Radio Stop done. 	@0:0:9.182041759
+DEBUG (9): 	 Radio Stop done. 	@0:0:9.184157855
+DEBUG (10): 	 Radio Stop done. 	@0:0:9.184392976
+DEBUG (6): 	 Radio Stop done. 	@0:0:9.184429052
+DEBUG (1): 	 Radio Stop done. 	@0:0:9.185206569
+DEBUG (2): 	 Radio Stop done. 	@0:0:9.185441690
+DEBUG (5): 	 Radio Stop done. 	@0:0:9.186147055
+DEBUG (11): 	 Radio Stop done. 	@0:0:9.186581223
+DEBUG (7): 	 Radio Stop done. 	@0:0:9.186617299
+DEBUG (12): 	 Radio Stop done. 	@0:0:9.186816345
+DEBUG (4): 	 Radio Stop done. 	@0:0:9.187865059
+DEBUG (3): 	 Radio Stop done. 	@0:0:9.188606500
+DEBUG (8): 	 Radio Stop done. 	@0:0:9.188805546
+DEBUG (0): 	 Radio Start done. @0:0:9.767979259	
+DEBUG (0): 	 Annonce timer Fired. 	@0:0:9.767979269
+DEBUG (0): 	 Node annonce as BaseStation. 	@0:0:9.767979269
+DEBUG (9): 	 Radio become alive and time tick is 8. 	@0:0:9.770095345
+DEBUG (9): 	 Radio Start done. @0:0:9.770095355	
+DEBUG (10): 	 Radio Start done. @0:0:9.770330476	
+DEBUG (6): 	 Radio become alive and time tick is 5. 	@0:0:9.770366542
+DEBUG (6): 	 Radio Start done. @0:0:9.770366552	
+DEBUG (1): 	 Radio become alive and time tick is 10. 	@0:0:9.771144059
+DEBUG (1): 	 Radio Start done. @0:0:9.771144069	
+DEBUG (2): 	 Radio become alive and time tick is 10. 	@0:0:9.771379180
+DEBUG (2): 	 Radio Start done. @0:0:9.771379190	
+DEBUG (5): 	 Radio Start done. @0:0:9.772084555	
+DEBUG (11): 	 Radio become alive and time tick is 8. 	@0:0:9.772518713
+DEBUG (11): 	 Radio Start done. @0:0:9.772518723	
+DEBUG (7): 	 Radio Start done. @0:0:9.772554799	
+DEBUG (12): 	 Radio become alive and time tick is 9. 	@0:0:9.772753835
+DEBUG (12): 	 Radio Start done. @0:0:9.772753845	
+DEBUG (4): 	 Radio become alive and time tick is 10. 	@0:0:9.773802549
+DEBUG (4): 	 Radio Start done. @0:0:9.773802559	
+DEBUG (3): 	 Radio become alive and time tick is 10. 	@0:0:9.774543990
+DEBUG (3): 	 Radio Start done. @0:0:9.774544000	
+DEBUG (8): 	 Radio Start done. @0:0:9.774743046	
+DEBUG (8): 	 New sync received from 4. 	@0:0:9.812402149
+DEBUG (8): 	 New sync received from 12. 	@0:0:9.861096797
+DEBUG (7): 	 New sync received from 12. 	@0:0:9.861096797
+DEBUG (5): 	 New sync received from 1. 	@0:0:9.862386174
+DEBUG (0): 	 Ready to transmite(1). 	@0:0:9.865635499
+DEBUG (8): 	 New sync received from 11. 	@0:0:9.866659981
+DEBUG (9): 	 Ready to transmite(8). 	@0:0:9.867751595
+DEBUG (10): 	 Ready to transmite(1). 	@0:0:9.867986716
+DEBUG (6): 	 Ready to transmite(5). 	@0:0:9.868022792
+DEBUG (1): 	 Ready to transmite(10). 	@0:0:9.868800309
+DEBUG (2): 	 Ready to transmite(10). 	@0:0:9.869035430
+DEBUG (5): 	 Ready to transmite(1). 	@0:0:9.869740795
+DEBUG (11): 	 Ready to transmite(8). 	@0:0:9.870174963
+DEBUG (7): 	 Ready to transmite(1). 	@0:0:9.870211039
+DEBUG (12): 	 Ready to transmite(9). 	@0:0:9.870410085
+DEBUG (4): 	 Ready to transmite(10). 	@0:0:9.871458799
+DEBUG (3): 	 Ready to transmite(10). 	@0:0:9.872200240
+DEBUG (8): 	 Ready to transmite(1). 	@0:0:9.872399286
+DEBUG (0): 	 Radio Stop done. 	@0:0:10.158604259
+DEBUG (9): 	 Radio Stop done. 	@0:0:10.160720355
+DEBUG (10): 	 Radio Stop done. 	@0:0:10.160955476
+DEBUG (1): 	 Radio Stop done. 	@0:0:10.161769069
+DEBUG (2): 	 Radio Stop done. 	@0:0:10.162004190
+DEBUG (5): 	 Radio Stop done. 	@0:0:10.162709555
+DEBUG (11): 	 Radio Stop done. 	@0:0:10.163143723
+DEBUG (12): 	 Radio Stop done. 	@0:0:10.163378845
+DEBUG (6): 	 Radio Stop done. 	@0:0:10.163921240
+DEBUG (7): 	 Radio Stop done. 	@0:0:10.164156361
+DEBUG (8): 	 Radio Stop done. 	@0:0:10.164391483
+DEBUG (4): 	 Radio Stop done. 	@0:0:10.164427559
+DEBUG (3): 	 Radio Stop done. 	@0:0:10.165169000
+DEBUG (0): 	 Radio Start done. @0:0:10.744541759	
+DEBUG (0): 	 Annonce timer Fired. 	@0:0:10.744541769
+DEBUG (0): 	 Node annonce as BaseStation. 	@0:0:10.744541769
+DEBUG (9): 	 Radio become alive and time tick is 9. 	@0:0:10.746657845
+DEBUG (9): 	 Radio Start done. @0:0:10.746657855	
+DEBUG (10): 	 Radio Start done. @0:0:10.746892976	
+DEBUG (1): 	 Radio become alive and time tick is 11. 	@0:0:10.747706559
+DEBUG (1): 	 Radio Start done. @0:0:10.747706569	
+DEBUG (2): 	 Radio become alive and time tick is 11. 	@0:0:10.747941680
+DEBUG (2): 	 Radio Start done. @0:0:10.747941690	
+DEBUG (5): 	 Radio Start done. @0:0:10.748647055	
+DEBUG (11): 	 Radio become alive and time tick is 9. 	@0:0:10.749081213
+DEBUG (11): 	 Radio Start done. @0:0:10.749081223	
+DEBUG (12): 	 Radio become alive and time tick is 10. 	@0:0:10.749316335
+DEBUG (12): 	 Radio Start done. @0:0:10.749316345	
+DEBUG (6): 	 Radio become alive and time tick is 6. 	@0:0:10.749858730
+DEBUG (6): 	 Radio Start done. @0:0:10.749858740	
+DEBUG (7): 	 Radio Start done. @0:0:10.750093861	
+DEBUG (8): 	 Radio Start done. @0:0:10.750328983	
+DEBUG (4): 	 Radio become alive and time tick is 11. 	@0:0:10.750365049
+DEBUG (4): 	 Radio Start done. @0:0:10.750365059	
+DEBUG (3): 	 Radio become alive and time tick is 11. 	@0:0:10.751106490
+DEBUG (3): 	 Radio Start done. @0:0:10.751106500	
+DEBUG (5): 	 New sync received from 1. 	@0:0:10.791494117
+DEBUG (7): 	 New sync received from 3. 	@0:0:10.799929419
+DEBUG (5): 	 New sync received from 2. 	@0:0:10.804851721
+DEBUG (8): 	 New sync received from 2. 	@0:0:10.804851721
+DEBUG (5): 	 New sync received from 9. 	@0:0:10.817300715
+DEBUG (8): 	 New sync received from 4. 	@0:0:10.840539055
+DEBUG (0): 	 Ready to transmite(1). 	@0:0:10.842197999
+DEBUG (9): 	 Ready to transmite(9). 	@0:0:10.844314095
+DEBUG (10): 	 Ready to transmite(1). 	@0:0:10.844549216
+DEBUG (1): 	 Ready to transmite(11). 	@0:0:10.845362809
+DEBUG (2): 	 Ready to transmite(11). 	@0:0:10.845597930
+DEBUG (5): 	 Ready to transmite(1). 	@0:0:10.846303295
+DEBUG (11): 	 Ready to transmite(9). 	@0:0:10.846737463
+DEBUG (12): 	 Ready to transmite(10). 	@0:0:10.846972585
+DEBUG (6): 	 Ready to transmite(6). 	@0:0:10.847514980
+DEBUG (7): 	 Ready to transmite(1). 	@0:0:10.847750101
+DEBUG (8): 	 Ready to transmite(1). 	@0:0:10.847985223
+DEBUG (4): 	 Ready to transmite(11). 	@0:0:10.848021299
+DEBUG (3): 	 Ready to transmite(11). 	@0:0:10.848762740
+DEBUG (3): 	 New cycle started by CH 3.	@0:0:10.854622115
+DEBUG (4): 	 New cycle started by CH 4.	@0:0:10.856810361
+DEBUG (2): 	 New cycle started by CH 2.	@0:0:10.862199493
+DEBUG (1): 	 New cycle started by CH 1.	@0:0:10.872706559
+DEBUG (5): 	 Received new cycle trig from my CH(1). 	@0:0:10.874156135
+DEBUG (0): 	 Radio Stop done. 	@0:0:11.135166759
+DEBUG (10): 	 Radio Stop done. 	@0:0:11.137517976
+DEBUG (5): 	 Radio Stop done. 	@0:0:11.138295493
+DEBUG (1): 	 Radio Stop done. 	@0:0:11.138331569
+DEBUG (2): 	 Radio Stop done. 	@0:0:11.138566690
+DEBUG (11): 	 Radio Stop done. 	@0:0:11.139706223
+DEBUG (12): 	 Radio Stop done. 	@0:0:11.139941345
+DEBUG (9): 	 Radio Stop done. 	@0:0:11.140212542
+DEBUG (6): 	 Radio Stop done. 	@0:0:11.140483740
+DEBUG (4): 	 Radio Stop done. 	@0:0:11.140990059
+DEBUG (3): 	 Radio Stop done. 	@0:0:11.141731500
+DEBUG (8): 	 Radio Stop done. 	@0:0:11.141930546
+DEBUG (7): 	 Radio Stop done. 	@0:0:11.142671986
+DEBUG (0): 	 Radio Start done. @0:0:11.721104259	
+DEBUG (0): 	 Annonce timer Fired. 	@0:0:11.721104269
+DEBUG (0): 	 Node annonce as BaseStation. 	@0:0:11.721104269
+DEBUG (10): 	 Radio Start done. @0:0:11.723455476	
+DEBUG (5): 	 Radio Start done. @0:0:11.724232993	
+DEBUG (1): 	 Radio become alive and time tick is 12. 	@0:0:11.724269059
+DEBUG (1): 	 Radio Start done. @0:0:11.724269069	
+DEBUG (2): 	 Radio become alive and time tick is 12. 	@0:0:11.724504180
+DEBUG (2): 	 Radio Start done. @0:0:11.724504190	
+DEBUG (11): 	 Radio become alive and time tick is 10. 	@0:0:11.725643713
+DEBUG (11): 	 Radio Start done. @0:0:11.725643723	
+DEBUG (12): 	 Radio become alive and time tick is 11. 	@0:0:11.725878835
+DEBUG (12): 	 Radio Start done. @0:0:11.725878845	
+DEBUG (9): 	 Radio become alive and time tick is 10. 	@0:0:11.726150032
+DEBUG (9): 	 Radio Start done. @0:0:11.726150042	
+DEBUG (6): 	 Radio become alive and time tick is 7. 	@0:0:11.726421230
+DEBUG (6): 	 Radio Start done. @0:0:11.726421240	
+DEBUG (4): 	 Radio become alive and time tick is 12. 	@0:0:11.726927549
+DEBUG (4): 	 Radio Start done. @0:0:11.726927559	
+DEBUG (3): 	 Radio become alive and time tick is 12. 	@0:0:11.727668990
+DEBUG (3): 	 Radio Start done. @0:0:11.727669000	
+DEBUG (8): 	 Radio Start done. @0:0:11.727868046	
+DEBUG (7): 	 Radio Start done. @0:0:11.728609486	
+DEBUG (8): 	 New sync received from 3. 	@0:0:11.766421177
+DEBUG (7): 	 New sync received from 12. 	@0:0:11.790113051
+DEBUG (7): 	 New sync received from 9. 	@0:0:11.808847276
+DEBUG (0): 	 Ready to transmite(1). 	@0:0:11.818760499
+DEBUG (10): 	 Ready to transmite(1). 	@0:0:11.821111716
+DEBUG (5): 	 Ready to transmite(1). 	@0:0:11.821889233
+DEBUG (1): 	 Ready to transmite(12). 	@0:0:11.821925309
+DEBUG (2): 	 Ready to transmite(12). 	@0:0:11.822160430
+DEBUG (11): 	 Ready to transmite(10). 	@0:0:11.823299963
+DEBUG (12): 	 Ready to transmite(11). 	@0:0:11.823535085
+DEBUG (9): 	 Ready to transmite(10). 	@0:0:11.823806282
+DEBUG (6): 	 Ready to transmite(7). 	@0:0:11.824077480
+DEBUG (4): 	 Ready to transmite(12). 	@0:0:11.824583799
+DEBUG (3): 	 Ready to transmite(12). 	@0:0:11.825325240
+DEBUG (8): 	 Ready to transmite(1). 	@0:0:11.825524286
+DEBUG (7): 	 Ready to transmite(1). 	@0:0:11.826265726
+DEBUG (12): 	 New cycle started by CH 12.	@0:0:11.858691335
+DEBUG (8): 	 Received new cycle trig from my CH(12). 	@0:0:11.860140911
+DEBUG (7): 	 Received new cycle trig from my CH(12). 	@0:0:11.860140911
+DEBUG (0): 	 Radio Stop done. 	@0:0:12.111729259
+DEBUG (10): 	 Radio Stop done. 	@0:0:12.114080476
+DEBUG (5): 	 Radio Stop done. 	@0:0:12.114857993
+DEBUG (1): 	 Radio Stop done. 	@0:0:12.114894069
+DEBUG (2): 	 Radio Stop done. 	@0:0:12.115129190
+DEBUG (11): 	 Radio Stop done. 	@0:0:12.116268723
+DEBUG (12): 	 Radio Stop done. 	@0:0:12.116503845
+DEBUG (9): 	 Radio Stop done. 	@0:0:12.116775042
+DEBUG (4): 	 Radio Stop done. 	@0:0:12.117552559
+DEBUG (6): 	 Radio Stop done. 	@0:0:12.118022802
+DEBUG (7): 	 Radio Stop done. 	@0:0:12.118257924
+DEBUG (3): 	 Radio Stop done. 	@0:0:12.118294000
+DEBUG (8): 	 Radio Stop done. 	@0:0:12.119469608
+DEBUG (0): 	 Radio Start done. @0:0:12.697666759	
+DEBUG (0): 	 Annonce timer Fired. 	@0:0:12.697666769
+DEBUG (0): 	 Node annonce as BaseStation. 	@0:0:12.697666769
+DEBUG (10): 	 Radio Start done. @0:0:12.700017976	
+DEBUG (5): 	 Radio Start done. @0:0:12.700795493	
+DEBUG (1): 	 Radio become alive and time tick is 13. 	@0:0:12.700831559
+DEBUG (1): 	 Radio Start done. @0:0:12.700831569	
+DEBUG (2): 	 Radio become alive and time tick is 13. 	@0:0:12.701066680
+DEBUG (2): 	 Radio Start done. @0:0:12.701066690	
+DEBUG (11): 	 Radio become alive and time tick is 11. 	@0:0:12.702206213
+DEBUG (11): 	 Radio Start done. @0:0:12.702206223	
+DEBUG (12): 	 Radio become alive and time tick is 12. 	@0:0:12.702441335
+DEBUG (12): 	 Radio Start done. @0:0:12.702441345	
+DEBUG (9): 	 Radio become alive and time tick is 11. 	@0:0:12.702712532
+DEBUG (9): 	 Radio Start done. @0:0:12.702712542	
+DEBUG (4): 	 Radio become alive and time tick is 13. 	@0:0:12.703490049
+DEBUG (4): 	 Radio Start done. @0:0:12.703490059	
+DEBUG (6): 	 Radio become alive and time tick is 8. 	@0:0:12.703960292
+DEBUG (6): 	 Radio Start done. @0:0:12.703960302	
+DEBUG (7): 	 Radio Start done. @0:0:12.704195424	
+DEBUG (3): 	 Radio become alive and time tick is 13. 	@0:0:12.704231490
+DEBUG (3): 	 Radio Start done. @0:0:12.704231500	
+DEBUG (8): 	 Radio Start done. @0:0:12.705407108	
+DEBUG (5): 	 New sync received from 1. 	@0:0:12.707082715
+DEBUG (0): 	 Ready to transmite(1). 	@0:0:12.795322999
+DEBUG (10): 	 Ready to transmite(1). 	@0:0:12.797674216
+DEBUG (5): 	 Ready to transmite(1). 	@0:0:12.798451733
+DEBUG (1): 	 Ready to transmite(13). 	@0:0:12.798487809
+DEBUG (2): 	 Ready to transmite(13). 	@0:0:12.798722930
+DEBUG (11): 	 Ready to transmite(11). 	@0:0:12.799862463
+DEBUG (12): 	 Ready to transmite(12). 	@0:0:12.800097585
+DEBUG (9): 	 Ready to transmite(11). 	@0:0:12.800368782
+DEBUG (4): 	 Ready to transmite(13). 	@0:0:12.801146299
+DEBUG (6): 	 Ready to transmite(8). 	@0:0:12.801616542
+DEBUG (7): 	 Ready to transmite(1). 	@0:0:12.801851664
+DEBUG (3): 	 Ready to transmite(13). 	@0:0:12.801887740
+DEBUG (8): 	 Ready to transmite(1). 	@0:0:12.803063348
+DEBUG (9): 	 New cycle started by CH 9.	@0:0:12.818923470
+DEBUG (11): 	 New cycle started by CH 11.	@0:0:12.845760901
+DEBUG (0): 	 Radio Stop done. 	@0:0:13.088291759
+DEBUG (10): 	 Radio Stop done. 	@0:0:13.090642976
+DEBUG (2): 	 Radio Stop done. 	@0:0:13.091691690
+DEBUG (4): 	 Radio Stop done. 	@0:0:13.092161934
+DEBUG (9): 	 Radio Stop done. 	@0:0:13.092360980
+DEBUG (5): 	 Radio Stop done. 	@0:0:13.092397055
+DEBUG (11): 	 Radio Stop done. 	@0:0:13.092831223
+DEBUG (12): 	 Radio Stop done. 	@0:0:13.093066345
+DEBUG (6): 	 Radio Stop done. 	@0:0:13.094585302
+DEBUG (7): 	 Radio Stop done. 	@0:0:13.094820424
+DEBUG (3): 	 Radio Stop done. 	@0:0:13.094856500
+DEBUG (1): 	 Radio Stop done. 	@0:0:13.095362819
+DEBUG (8): 	 Radio Stop done. 	@0:0:13.096032108
+DEBUG (0): 	 Radio Start done. @0:0:13.674229259	
+DEBUG (0): 	 Annonce timer Fired. 	@0:0:13.674229269
+DEBUG (0): 	 Node annonce as BaseStation. 	@0:0:13.674229269
+DEBUG (10): 	 Radio Start done. @0:0:13.676580476	
+DEBUG (2): 	 Radio become alive and time tick is 14. 	@0:0:13.677629180
+DEBUG (2): 	 Radio Start done. @0:0:13.677629190	
+DEBUG (4): 	 Radio become alive and time tick is 14. 	@0:0:13.678099424
+DEBUG (4): 	 Radio Start done. @0:0:13.678099434	
+DEBUG (9): 	 Radio become alive and time tick is 12. 	@0:0:13.678298470
+DEBUG (9): 	 Radio Start done. @0:0:13.678298480	
+DEBUG (5): 	 Radio Start done. @0:0:13.678334555	
+DEBUG (11): 	 Radio become alive and time tick is 12. 	@0:0:13.678768713
+DEBUG (11): 	 Radio Start done. @0:0:13.678768723	
+DEBUG (12): 	 Radio become alive and time tick is 13. 	@0:0:13.679003835
+DEBUG (12): 	 Radio Start done. @0:0:13.679003845	
+DEBUG (6): 	 Radio become alive and time tick is 9. 	@0:0:13.680522792
+DEBUG (6): 	 Radio Start done. @0:0:13.680522802	
+DEBUG (7): 	 Radio Start done. @0:0:13.680757924	
+DEBUG (3): 	 Radio become alive and time tick is 14. 	@0:0:13.680793990
+DEBUG (3): 	 Radio Start done. @0:0:13.680794000	
+DEBUG (1): 	 Radio become alive and time tick is 14. 	@0:0:13.681300309
+DEBUG (1): 	 Radio Start done. @0:0:13.681300319	
+DEBUG (8): 	 Radio Start done. @0:0:13.681969608	
+DEBUG (8): 	 New sync received from 1. 	@0:0:13.690755792
+DEBUG (7): 	 New sync received from 12. 	@0:0:13.726453481
+DEBUG (7): 	 New sync received from 3. 	@0:0:13.756777405
+DEBUG (0): 	 Ready to transmite(1). 	@0:0:13.771885499
+DEBUG (10): 	 Ready to transmite(1). 	@0:0:13.774236716
+DEBUG (2): 	 Ready to transmite(14). 	@0:0:13.775285430
+DEBUG (4): 	 Ready to transmite(14). 	@0:0:13.775755674
+DEBUG (9): 	 Ready to transmite(12). 	@0:0:13.775954720
+DEBUG (5): 	 Ready to transmite(1). 	@0:0:13.775990795
+DEBUG (11): 	 Ready to transmite(12). 	@0:0:13.776424963
+DEBUG (12): 	 Ready to transmite(13). 	@0:0:13.776660085
+DEBUG (6): 	 Ready to transmite(9). 	@0:0:13.778179042
+DEBUG (7): 	 Ready to transmite(1). 	@0:0:13.778414164
+DEBUG (3): 	 Ready to transmite(14). 	@0:0:13.778450240
+DEBUG (1): 	 Ready to transmite(14). 	@0:0:13.778956559
+DEBUG (8): 	 Ready to transmite(1). 	@0:0:13.779625848
+DEBUG (1): 	 Aggrigate received data. 	@0:0:13.791651871
+DEBUG (1): 	 aggregate_val= 0 	@0:0:13.791651871
+DEBUG (1): 	 memberCount_received= 0 	@0:0:13.791651871
+DEBUG (1): 	 Send aggrigation data to BaseStation. 	@0:0:13.791651871
+DEBUG (3): 	 Radio Stop done. 	@0:0:13.797886152
+DEBUG (5): 	 Radio Stop done. 	@0:0:13.797886152
+DEBUG (4): 	 Radio Stop done. 	@0:0:13.799701937
+DEBUG (2): 	 Radio Stop done. 	@0:0:13.799701937
+DEBUG (12): 	 Radio Stop done. 	@0:0:13.799701937
+DEBUG (3): 	 Radio Start done. @0:0:13.799934625	
+DEBUG (5): 	 Radio Start done. @0:0:13.800404868	
+DEBUG (2): 	 Aggrigate received data. 	@0:0:13.801652618
+DEBUG (2): 	 aggregate_val= 0 	@0:0:13.801652618
+DEBUG (2): 	 memberCount_received= 0 	@0:0:13.801652618
+DEBUG (2): 	 Send aggrigation data to BaseStation. 	@0:0:13.801652618
+DEBUG (12): 	 Radio Start done. @0:0:13.802050720	
+DEBUG (4): 	 Radio Start done. @0:0:13.802122871	
+DEBUG (2): 	 Radio Start done. @0:0:13.803605753	
+DEBUG (3): 	 Aggrigate received data. 	@0:0:13.804817427
+DEBUG (3): 	 aggregate_val= 0 	@0:0:13.804817427
+DEBUG (3): 	 memberCount_received= 0 	@0:0:13.804817427
+DEBUG (3): 	 Send aggrigation data to BaseStation. 	@0:0:13.804817427
+DEBUG (5): 	 Radio Stop done. 	@0:0:13.805155603
+DEBUG (3): 	 Radio Stop done. 	@0:0:13.805155603
+DEBUG (6): 	 Radio Stop done. 	@0:0:13.805155603
+DEBUG (12): 	 Radio Stop done. 	@0:0:13.805155603
+DEBUG (5): 	 Radio Start done. @0:0:13.807240805	
+DEBUG (6): 	 Radio Start done. @0:0:13.807475927	
+DEBUG (3): 	 Radio Start done. @0:0:13.807747125	
+DEBUG (12): 	 Radio Start done. @0:0:13.807910095	
+DEBUG (4): 	 Aggrigate received data. 	@0:0:13.814818174
+DEBUG (4): 	 aggregate_val= 0 	@0:0:13.814818174
+DEBUG (4): 	 memberCount_received= 0 	@0:0:13.814818174
+DEBUG (4): 	 Send aggrigation data to BaseStation. 	@0:0:13.814818174
+DEBUG (12): 	 Radio Stop done. 	@0:0:13.821128748
+DEBUG (12): 	 Radio Start done. @0:0:13.823535095	
+DEBUG (9): 	 Radio Stop done. 	@0:0:13.829670229
+DEBUG (9): 	 Radio Start done. @0:0:13.832595355	
+DEBUG (12): 	 Radio Stop done. 	@0:0:13.849244450
+DEBUG (12): 	 Radio Start done. @0:0:13.851855407	
+DEBUG (12): 	 Radio Stop done. 	@0:0:13.858421216
+DEBUG (12): 	 Radio Start done. @0:0:13.860644470	
+DEBUG (12): 	 Radio Stop done. 	@0:0:13.864200855
+DEBUG (0): 	 Received aggregated value from 1 = 0 . 	@0:0:13.865589377
+DEBUG (12): 	 Radio Start done. @0:0:13.866503845	
+DEBUG (0): 	 Received aggregated value from 1 = 0 . 	@0:0:13.867145764
+DEBUG (2): 	 Radio Stop done. 	@0:0:13.886948909
+DEBUG (2): 	 Radio Start done. @0:0:13.889543253	
+DEBUG (12): 	 Radio Stop done. 	@0:0:13.897288135
+DEBUG (12): 	 Radio Start done. @0:0:13.899706970	
+DEBUG (8): 	 Radio Stop done. 	@0:0:13.929987746
+DEBUG (9): 	 Radio Stop done. 	@0:0:13.929987746
+DEBUG (6): 	 Radio Stop done. 	@0:0:13.929987746
+DEBUG (7): 	 Radio Stop done. 	@0:0:13.931803531
+DEBUG (12): 	 Radio Stop done. 	@0:0:13.931803531
+DEBUG (1): 	 Radio Stop done. 	@0:0:13.931803531
+DEBUG (8): 	 Radio Start done. @0:0:13.931969608	
+DEBUG (9): 	 Radio Start done. @0:0:13.932204730	
+DEBUG (6): 	 Radio Start done. @0:0:13.932475927	
+DEBUG (0): 	 Received aggregated value from 2 = 0 . 	@0:0:13.933192053
+DEBUG (12): 	 Radio Start done. @0:0:13.933886657	
+DEBUG (1): 	 Radio Start done. @0:0:13.934230006	
+DEBUG (7): 	 Radio Start done. @0:0:13.934664174	
+DEBUG (0): 	 Received aggregated value from 2 = 0 . 	@0:0:13.936381121
+DEBUG (0): 	 Radio Stop done. 	@0:0:14.064854259
+DEBUG (10): 	 Radio Stop done. 	@0:0:14.067205476
+DEBUG (9): 	 Radio Stop done. 	@0:0:14.068923480
+DEBUG (5): 	 Radio Stop done. 	@0:0:14.068959555
+DEBUG (11): 	 Radio Stop done. 	@0:0:14.069393723
+DEBUG (12): 	 Radio Stop done. 	@0:0:14.069628845
+DEBUG (1): 	 Radio Stop done. 	@0:0:14.069972194
+DEBUG (2): 	 Radio Stop done. 	@0:0:14.070207315
+DEBUG (4): 	 Radio Stop done. 	@0:0:14.070677559
+DEBUG (6): 	 Radio Stop done. 	@0:0:14.071147802
+DEBUG (7): 	 Radio Stop done. 	@0:0:14.071382924
+DEBUG (3): 	 Radio Stop done. 	@0:0:14.071419000
+DEBUG (8): 	 Radio Stop done. 	@0:0:14.072594608
+DEBUG (0): 	 Radio Start done. @0:0:14.650791759	
+DEBUG (0): 	 Annonce timer Fired. 	@0:0:14.650791769
+DEBUG (0): 	 Node annonce as BaseStation. 	@0:0:14.650791769
+DEBUG (10): 	 Radio Start done. @0:0:14.653142976	
+DEBUG (9): 	 Radio become alive and time tick is 13. 	@0:0:14.654860970
+DEBUG (9): 	 Radio Start done. @0:0:14.654860980	
+DEBUG (5): 	 Radio Start done. @0:0:14.654897055	
+DEBUG (11): 	 Radio become alive and time tick is 13. 	@0:0:14.655331213
+DEBUG (11): 	 Radio Start done. @0:0:14.655331223	
+DEBUG (12): 	 Radio become alive and time tick is 14. 	@0:0:14.655566335
+DEBUG (12): 	 Radio Start done. @0:0:14.655566345	
+DEBUG (1): 	 Radio become alive and time tick is 15. 	@0:0:14.655909684
+DEBUG (1): 	 Radio Start done. @0:0:14.655909694	
+DEBUG (2): 	 Radio become alive and time tick is 15. 	@0:0:14.656144805
+DEBUG (2): 	 Radio Start done. @0:0:14.656144815	
+DEBUG (4): 	 Radio become alive and time tick is 15. 	@0:0:14.656615049
+DEBUG (4): 	 Radio Start done. @0:0:14.656615059	
+DEBUG (6): 	 Radio become alive and time tick is 10. 	@0:0:14.657085292
+DEBUG (6): 	 Radio Start done. @0:0:14.657085302	
+DEBUG (7): 	 Radio Start done. @0:0:14.657320424	
+DEBUG (3): 	 Radio become alive and time tick is 15. 	@0:0:14.657356490
+DEBUG (3): 	 Radio Start done. @0:0:14.657356500	
+DEBUG (8): 	 Radio Start done. @0:0:14.658532108	
+DEBUG (10): 	 New sync received from 12. 	@0:0:14.661512317
+DEBUG (10): 	 Node 10 joined to 12 as member. 	@0:0:14.661512317
+DEBUG (8): 	 New sync received from 12. 	@0:0:14.661512317
+DEBUG (10): 	 New sync received from 9. 	@0:0:14.666452671
+DEBUG (5): 	 New sync received from 9. 	@0:0:14.666452671
+DEBUG (8): 	 New sync received from 6. 	@0:0:14.670508037
+DEBUG (8): 	 New sync received from 4. 	@0:0:14.680871471
+DEBUG (10): 	 New sync received from 1. 	@0:0:14.726705141
+DEBUG (5): 	 New sync received from 1. 	@0:0:14.726705141
+DEBUG (8): 	 New sync received from 1. 	@0:0:14.726705141
+DEBUG (8): 	 New sync received from 2. 	@0:0:14.731517873
+DEBUG (5): 	 New sync received from 2. 	@0:0:14.731517873
+DEBUG (0): 	 Ready to transmite(1). 	@0:0:14.748447999
+DEBUG (10): 	 Ready to transmite(1). 	@0:0:14.750799216
+DEBUG (9): 	 Ready to transmite(13). 	@0:0:14.752517220
+DEBUG (5): 	 Ready to transmite(1). 	@0:0:14.752553295
+DEBUG (11): 	 Ready to transmite(13). 	@0:0:14.752987463
+DEBUG (12): 	 Ready to transmite(14). 	@0:0:14.753222585
+DEBUG (1): 	 Ready to transmite(15). 	@0:0:14.753565934
+DEBUG (2): 	 Ready to transmite(15). 	@0:0:14.753801055
+DEBUG (4): 	 Ready to transmite(15). 	@0:0:14.754271299
+DEBUG (6): 	 Ready to transmite(10). 	@0:0:14.754741542
+DEBUG (7): 	 Ready to transmite(1). 	@0:0:14.754976664
+DEBUG (3): 	 Ready to transmite(15). 	@0:0:14.755012740
+DEBUG (8): 	 Ready to transmite(1). 	@0:0:14.756188348
+DEBUG (12): 	 Aggrigate received data. 	@0:0:14.761035085
+DEBUG (12): 	 aggregate_val= 0 	@0:0:14.761035085
+DEBUG (12): 	 memberCount_received= 0 	@0:0:14.761035085
+DEBUG (12): 	 Send aggrigation data to BaseStation. 	@0:0:14.761035085
+DEBUG (5): 	 Radio Stop done. 	@0:0:14.768473554
+DEBUG (7): 	 Radio Stop done. 	@0:0:14.769069892
+DEBUG (11): 	 Radio Stop done. 	@0:0:14.769069892
+DEBUG (5): 	 Radio Start done. @0:0:14.771107993	
+DEBUG (11): 	 Radio Start done. @0:0:14.771542161	
+DEBUG (7): 	 Radio Start done. @0:0:14.771578236	
+DEBUG (2): 	 Radio Stop done. 	@0:0:14.799980081
+DEBUG (2): 	 Radio Start done. @0:0:14.802629190	
+DEBUG (1): 	 Radio Stop done. 	@0:0:14.833808802
+DEBUG (2): 	 Radio Stop done. 	@0:0:14.833808802
+DEBUG (8): 	 Radio Stop done. 	@0:0:14.833828214
+DEBUG (2): 	 Radio Start done. @0:0:14.835832315	
+DEBUG (8): 	 Radio Start done. @0:0:14.836266483	
+DEBUG (1): 	 Radio Start done. @0:0:14.836573756	
+DEBUG (9): 	 Radio Stop done. 	@0:0:14.838731132
+DEBUG (5): 	 Radio Stop done. 	@0:0:14.838731132
+DEBUG (7): 	 Radio Stop done. 	@0:0:14.838731132
+DEBUG (7): 	 Radio Start done. @0:0:14.840914174	
+DEBUG (9): 	 Radio Start done. @0:0:14.841384417	
+DEBUG (5): 	 Radio Start done. @0:0:14.841420493	
+DEBUG (0): 	 Radio Stop done. 	@0:0:15.041416759
+DEBUG (11): 	 Radio Stop done. 	@0:0:15.045956223
+DEBUG (2): 	 Radio Stop done. 	@0:0:15.046769815
+DEBUG (12): 	 Radio Stop done. 	@0:0:15.047167907
+DEBUG (8): 	 Radio Stop done. 	@0:0:15.047203983
+DEBUG (4): 	 Radio Stop done. 	@0:0:15.047240059
+DEBUG (5): 	 Radio Stop done. 	@0:0:15.047475180
+DEBUG (1): 	 Radio Stop done. 	@0:0:15.047511256
+DEBUG (10): 	 Radio Stop done. 	@0:0:15.047674226
+DEBUG (6): 	 Radio Stop done. 	@0:0:15.047710302
+DEBUG (7): 	 Radio Stop done. 	@0:0:15.047945424
+DEBUG (3): 	 Radio Stop done. 	@0:0:15.047981500
+DEBUG (9): 	 Radio Stop done. 	@0:0:15.048415667
+DEBUG (0): 	 Radio Start done. @0:0:15.627354259	
+DEBUG (0): 	 Annonce timer Fired. 	@0:0:15.627354269
+DEBUG (0): 	 Node annonce as BaseStation. 	@0:0:15.627354269
+DEBUG (11): 	 Radio become alive and time tick is 14. 	@0:0:15.631893713
+DEBUG (11): 	 Radio Start done. @0:0:15.631893723	
+DEBUG (2): 	 Radio become alive and time tick is 16. 	@0:0:15.632707305
+DEBUG (2): 	 Radio Start done. @0:0:15.632707315	
+DEBUG (12): 	 Radio become alive and time tick is 15. 	@0:0:15.633105397
+DEBUG (12): 	 Radio Start done. @0:0:15.633105407	
+DEBUG (8): 	 Radio Start done. @0:0:15.633141483	
+DEBUG (4): 	 Radio become alive and time tick is 16. 	@0:0:15.633177549
+DEBUG (4): 	 Radio Start done. @0:0:15.633177559	
+DEBUG (5): 	 Radio Start done. @0:0:15.633412680	
+DEBUG (1): 	 Radio become alive and time tick is 16. 	@0:0:15.633448746
+DEBUG (1): 	 Radio Start done. @0:0:15.633448756	
+DEBUG (10): 	 Radio Start done. @0:0:15.633611726	
+DEBUG (6): 	 Radio become alive and time tick is 11. 	@0:0:15.633647792
+DEBUG (6): 	 Radio Start done. @0:0:15.633647802	
+DEBUG (7): 	 Radio Start done. @0:0:15.633882924	
+DEBUG (3): 	 Radio become alive and time tick is 16. 	@0:0:15.633918990
+DEBUG (3): 	 Radio Start done. @0:0:15.633919000	
+DEBUG (9): 	 Radio become alive and time tick is 14. 	@0:0:15.634353157
+DEBUG (9): 	 Radio Start done. @0:0:15.634353167	
